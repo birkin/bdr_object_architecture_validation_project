@@ -24,12 +24,14 @@ I want to be able to use this spreadsheet to both validate items _before_ ingest
 Has shifted; will likely shift again.
 
 Initial plan:
-√ output sample item-api json for a few collections.
+- √ output sample item-api json for a few collections. ([link][sample-items])
 - develop an initial "object-architecture" worksheet.
 - from the zip-files, develop a worksheet for allowable types of items permitted in zip-files.
 - develop a worksheet for relationships between items.
 - develop a worksheet for collections and permitted parent-objects.
 - write the simplest-code possible, as early as possible, to validate submitted source-files, and to validate test ingested items.
+
+[sample-items]: <https://github.com/birkin/bdr_object_architecture_validation_project/tree/main/item-json-files-for-building-spreadsheet>
 
 Add-ons:
 - in the "object-architecture" worksheet, add mods-schematron-gist-urls (to validate submitted MODS).
