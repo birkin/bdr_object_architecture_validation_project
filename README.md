@@ -9,8 +9,23 @@ on this page
 
 ---
 
+## overall goal
 
-## plan
+I want to create a spreadsheet that will serve as a human-readable "index" of the kinds of object-architectures that the BDR supports. (Minimal example: PDF + MODS)
+
+I want to be able to use this spreadsheet to both validate items _before_ ingestion -- and to validate items _after_ ingestion.
+
+---
+---
+
+
+## overall plan
+
+---
+---
+
+
+## next steps
 
 - √ find, or remake that list of 10 small-collections (5-50)
 - √ make another list of 10-large collections (over 500)
@@ -22,6 +37,7 @@ on this page
         - large-1, bdr:bwehb8b8 ('Brown University Open Data Collection') -- identical
         - large-5, bdr:10855 ('John Carter Brown Library') -- identical when keys are sorted
         - large-10, bdr:7jw67xk5 ('The Brown Journal of World Affairs') -- identical
+-
 - get a item-api json example for each collection (two, if the object-architectures are different)
 - feed those json-examples into the 'project'
 - define initial limited clear goals for the spreadsheet
