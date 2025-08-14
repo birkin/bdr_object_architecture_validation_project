@@ -24,7 +24,7 @@ I want to be able to use this spreadsheet to both validate items _before_ ingest
 Has shifted; will likely shift again.
 
 Initial plan:
-- output sample item-api json for a few collections.
+√ output sample item-api json for a few collections.
 - develop an initial "object-architecture" worksheet.
 - from the zip-files, develop a worksheet for allowable types of items permitted in zip-files.
 - develop a worksheet for relationships between items.
