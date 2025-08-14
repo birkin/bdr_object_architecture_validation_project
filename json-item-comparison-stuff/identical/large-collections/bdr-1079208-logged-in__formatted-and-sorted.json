@@ -1,0 +1,411 @@
+{
+  "_display_brown_bsi": false,
+  "_display_private_bsi": false,
+  "_display_public_bsi": true,
+  "api_links": {
+    "collections": {
+      "The Brown Journal of World Affairs": "https://repository.library.brown.edu/api/collections/bdr:7jw67xk5/"
+    },
+    "keywords": {}
+  },
+  "brief": {
+    "contributors": [
+      "Robertson, Claire C. (author)"
+    ],
+    "date created": [
+      "1998"
+    ],
+    "doi": [
+      "10.26300/b64z-e405"
+    ],
+    "extent": [
+      "pp. 195-201"
+    ],
+    "full_title": [
+      "The Feminization of Poverty in Africa: Roots and Branches"
+    ],
+    "title": [
+      "The Feminization of Poverty in Africa: Roots and Branches"
+    ]
+  },
+  "catalog_links": [],
+  "collection_date": "2020-01-29T00:00:00Z",
+  "contributor": [
+    "Robertson, Claire C."
+  ],
+  "contributor_display": [
+    "Robertson, Claire C. (author)"
+  ],
+  "contributor_string": [
+    "Robertson, Claire C."
+  ],
+  "datastreams": {
+    "DC": {
+      "checksum": "fabbdb396a981b4ae6269ca1fd733c394efba5fee15e557e01d533100fed1edec38f61caaa7bd66bbc2a7d89f8fa60263a0b0c8a65f1fc4bc8336d8c609a871f",
+      "checksumType": "SHA-512",
+      "lastModified": "2020-01-29T21:33:13.990000Z",
+      "mimeType": "application/octet-stream",
+      "size": 340
+    },
+    "MODS": {
+      "checksum": "ebdd3324cf2105afb6e561972eaf23210da68af756f1ef93fe7bab978fe664816f99c4f2eff42357f3ec9f1844ca9276f56e866f169258adc5815b7511985bca",
+      "checksumType": "SHA-512",
+      "lastModified": "2020-04-21T15:42:02.386000Z",
+      "mimeType": "text/xml",
+      "size": 1820
+    },
+    "PDF": {
+      "checksum": "4ec85a12b71649bb7d18a6e7107c9ff1aba4ab1c54666098c18cdc79f94247f2b77d3c2a6582dc2d3e5b2cee0088680b85729e273bf75ff07bcca1842e1ac2f4",
+      "checksumType": "SHA-512",
+      "lastModified": "2020-01-29T21:33:13.990000Z",
+      "mimeType": "application/pdf",
+      "size": 232755
+    },
+    "RELS-EXT": {
+      "checksum": "c770b42d7918a0d49c1f0b7e3cd7c625fb48add6ad4f8aede573e981e9731bb295bb8ba03d3be493c99cd6e5a0a32a153ae00343a7ce7eb05d712d90148fe58d",
+      "checksumType": "SHA-512",
+      "lastModified": "2021-12-01T21:09:02.058189Z",
+      "mimeType": "text/xml",
+      "size": 783
+    },
+    "RELS-INT": {
+      "checksum": "9842c382b35edb864eac9f5e62a4e66b7a6f0f4efe8403cc456a0dae01e36b62e7a52670abfbd02f0a204ab6a16ee446a03d99792701dd130e196377e3e9d00a",
+      "checksumType": "SHA-512",
+      "lastModified": "2021-12-01T21:09:02.058189Z",
+      "mimeType": "text/xml",
+      "size": 722
+    },
+    "irMetadata": {
+      "checksum": "8f62761268b6fbbba6b212762f926b2b18cf9d69c8172f299e986dc1a554772532d1dab6fb09ba46e55cca10d7a722a977b42c6f643b2252eab52c634d3a5c1b",
+      "checksumType": "SHA-512",
+      "lastModified": "2020-01-29T21:33:13.990000Z",
+      "mimeType": "application/octet-stream",
+      "size": 370
+    },
+    "rightsMetadata": {
+      "checksum": "0aadc3d3cc15698a1adbde60222afb01c0188d0e4b9a2357df4efc12b3c30afb7d61053d6f99184be3c59030f66044c68656184c63d6350e9f730627086eb868",
+      "checksumType": "SHA-512",
+      "lastModified": "2020-04-20T18:43:51.559000Z",
+      "mimeType": "application/octet-stream",
+      "size": 1051
+    },
+    "thumbnail": {
+      "checksum": "70644f4759932252e80e9217ab30a2e59f032e6abc47998b062e57f9a9dd3351a446ba9783df2291695d3e47f838029455cc663fbabe8411c60f1f9cca5f30f6",
+      "checksumType": "SHA-512",
+      "lastModified": "2021-12-01T21:09:02.058189Z",
+      "mimeType": "image/jpeg",
+      "size": 10609
+    }
+  },
+  "dateCreated": "1998-01-01T00:00:00Z",
+  "dateCreated_month_ssim": [
+    "01"
+  ],
+  "dateCreated_month_text_ssim": [
+    "January"
+  ],
+  "dateCreated_year_ssim": [
+    "1998"
+  ],
+  "date_dsi": "1998-01-01T00:00:00Z",
+  "deposit_date": "2020-01-29T00:00:00Z",
+  "display_inline": "<iframe name=\"contentIframe\" src=\"https://repository.library.brown.edu/storage/bdr:1079208/PDF/\" width=\"100%\" height=\"800\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+  "display_inline_src": "https://repository.library.brown.edu/storage/bdr:1079208/PDF/",
+  "fed_created_dsi": "2020-01-29T21:33:13.990Z",
+  "fed_last_modified_dsi": "2021-12-01T21:09:02.058Z",
+  "fed_object_size_lsi": 248450,
+  "genre": [
+    "articles"
+  ],
+  "genre_aat": [
+    "articles"
+  ],
+  "ir_collection_id": [
+    943
+  ],
+  "ir_collection_name": [
+    "The Brown Journal of World Affairs"
+  ],
+  "json_uri": "https://repository.library.brown.edu/api/items/bdr:1079208/",
+  "links": {
+    "collections": {
+      "The Brown Journal of World Affairs": "https://repository.library.brown.edu/studio/collections/bdr:7jw67xk5/"
+    },
+    "content_datastreams": {
+      "PDF": "https://repository.library.brown.edu/storage/bdr:1079208/PDF/"
+    },
+    "descriptive_datastreams": {
+      "MODS": "https://repository.library.brown.edu/storage/bdr:1079208/MODS/"
+    },
+    "keywords": {},
+    "media_streams": [],
+    "thumbnail": "https://repository.library.brown.edu/viewers/image/thumbnail/bdr:1079208/",
+    "views": {}
+  },
+  "mods_dateAll_ssim": [
+    "1998"
+  ],
+  "mods_dateAll_year_ssim": [
+    "1998"
+  ],
+  "mods_dateCreated_ssim": [
+    "1998"
+  ],
+  "mods_genre_aat_ssim": [
+    "articles"
+  ],
+  "mods_id": "bdr579",
+  "mods_id_doi_ssi": "10.26300/b64z-e405",
+  "mods_language_code_ssim": [
+    "eng"
+  ],
+  "mods_language_ssim": [
+    "eng"
+  ],
+  "mods_name_nonplace_ssim": [
+    "Robertson, Claire C."
+  ],
+  "mods_physicalDescription_digitalOrigin_ssim": [
+    "born digital"
+  ],
+  "mods_physicalDescription_extent_ssim": [
+    "pp. 195-201"
+  ],
+  "mods_related_id_issn_ssim": [
+    "1080-0786"
+  ],
+  "mods_role_author_ssim": [
+    "Robertson, Claire C."
+  ],
+  "mods_role_ssim": [
+    "author"
+  ],
+  "mods_title_full_primary_tsi": "The Feminization of Poverty in Africa: Roots and Branches",
+  "mods_title_full_tsim": [
+    "The Feminization of Poverty in Africa: Roots and Branches"
+  ],
+  "mods_type_of_resource": [
+    "text"
+  ],
+  "name": [
+    "Robertson, Claire C."
+  ],
+  "object_created_dsi": "2020-01-29T21:33:13.990Z",
+  "object_last_modified_dsi": "2021-12-01T21:09:02.058Z",
+  "object_size_lsi": 248450,
+  "object_type": "pdf",
+  "other_title": [
+    "Brown Journal of World Affairs"
+  ],
+  "pid": "bdr:1079208",
+  "primary_download_link": "https://repository.library.brown.edu/storage/bdr:1079208/PDF/",
+  "primary_title": "The Feminization of Poverty in Africa: Roots and Branches",
+  "primary_title_txt_en_split": "The Feminization of Poverty in Africa: Roots and Branches",
+  "rel_content_models_ssim": [
+    "commonMetadata",
+    "pdf"
+  ],
+  "rel_has_pagination_ssim": [
+    "18"
+  ],
+  "rel_is_member_of_collection_ssim": [
+    "bdr:7jw67xk5"
+  ],
+  "rel_is_part_of_ssim": [
+    "bdr:1079190"
+  ],
+  "rel_object_type_ssi": "pdf",
+  "relations": {
+    "hasAnnotation": [],
+    "hasDerivation": [],
+    "hasDescription": [],
+    "hasPart": [],
+    "hasTranscript": [],
+    "hasTranslation": [],
+    "isDerivationOf": [],
+    "isMemberOf": [],
+    "isMemberOfCollection": [
+      {
+        "ancestors": [],
+        "child_folders": [],
+        "db_id": 943,
+        "description": "The Brown Journal of World Affairs is a semiannual journal of international relations and foreign policy produced at Brown University’s Watson Institute for International and Public Affairs. The Journal features original articles by and interviews with world leaders, policymakers, and prominent academics.\r\n\r\nEach issue is composed of several thematic sections that showcase unique and incisive scholarship on the salient international issues of today and tomorrow. Past contributors include Jimmy Carter, Samantha Power, Mikhail Gorbachev, John Kerry, and Joseph Stiglitz. The Journal was founded in 1993 and publishes two issues a year, in spring and winter.",
+        "id": "bdr:7jw67xk5",
+        "json_uri": "https://repository.library.brown.edu/api/collections/bdr:7jw67xk5/",
+        "name": "The Brown Journal of World Affairs",
+        "parent_folders": [],
+        "pid": "bdr:7jw67xk5",
+        "tags": [],
+        "uri": "https://repository.library.brown.edu/studio/collections/bdr:7jw67xk5/"
+      }
+    ],
+    "isPartOf": [
+      {
+        "_display_brown_bsi": false,
+        "_display_private_bsi": false,
+        "_display_public_bsi": true,
+        "collection_date": "2020-01-29T00:00:00Z",
+        "contributor": [
+          "Sharma, Shalinee",
+          "Dillon, Jeffrey W."
+        ],
+        "contributor_display": [
+          "Sharma, Shalinee (editor)",
+          "Dillon, Jeffrey W. (editor)"
+        ],
+        "contributor_string": [
+          "Sharma, Shalinee",
+          "Dillon, Jeffrey W."
+        ],
+        "datastreams_ssi": "{\"MODS\": {\"mimeType\": \"text/xml\", \"size\": 2295, \"checksum\": \"250ed62de9e09d3e3ee4aa2bba0114d2e629aa34a0c8d1b779b9ae992f89e33f6a2e245313d35ea1d1467b61cb1a5006f16782c20d2f925431205eb32b43ba45\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2020-04-21T16:08:06.992000Z\"}, \"RELS-EXT\": {\"mimeType\": \"text/xml\", \"size\": 557, \"checksum\": \"3367e7e73e161fddbe2e7c885cac3c030cb9955ac2bcaaba532d48e4b38aee283542fe23dbd94be2238fe1461ba0c166cdcd4a38cc0eca83c55e93d819df2d70\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2021-11-17T13:27:33.189541Z\"}, \"DC\": {\"mimeType\": \"application/octet-stream\", \"size\": 340, \"checksum\": \"3ae5d62e78cf171bc93e41e92bd8bd122a0762a1aa5483d8adae339d9979e101ff442b276d0d92a14a0332d662a8ed71d4dff32efefed2c03f30c984454d84fe\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2020-01-29T21:32:31.786000Z\"}, \"RELS-INT\": {\"mimeType\": \"text/xml\", \"size\": 197, \"checksum\": \"3d76bece02bc47ada26f7357f2aaedcd170387c35744734d40ee835c05ca0e2debcf4e5ca9f72bd0e7ec7d9950b8679c602424ec4d6eca663214a61e29d17073\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2020-01-29T21:32:31.786000Z\"}, \"irMetadata\": {\"mimeType\": \"application/octet-stream\", \"size\": 370, \"checksum\": \"8f62761268b6fbbba6b212762f926b2b18cf9d69c8172f299e986dc1a554772532d1dab6fb09ba46e55cca10d7a722a977b42c6f643b2252eab52c634d3a5c1b\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2020-01-29T21:32:31.786000Z\"}, \"rightsMetadata\": {\"mimeType\": \"application/octet-stream\", \"size\": 1290, \"checksum\": \"e03bff015e20ff79a516d49cc6774b1383a9170658eb15c390ed16238d83fb79959f14121963bcf90e9af8b2614ff1e9f4c8842191370b22b8d9565a1ce1ff96\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2020-04-20T18:50:30.913000Z\"}}",
+        "dateIssued": "1998-01-01T00:00:00Z",
+        "dateIssued_month_ssim": [
+          "01"
+        ],
+        "dateIssued_month_text_ssim": [
+          "January"
+        ],
+        "dateIssued_year_ssim": [
+          "1998"
+        ],
+        "date_dsi": "1998-01-01T00:00:00Z",
+        "deposit_date": "2020-01-29T00:00:00Z",
+        "display_label": "implicit-set",
+        "fed_created_dsi": "2020-01-29T21:32:31.786Z",
+        "fed_last_modified_dsi": "2021-11-17T13:27:33.189Z",
+        "fed_object_size_lsi": 5049,
+        "genre": [
+          "journals (periodicals)"
+        ],
+        "genre_aat": [
+          "journals (periodicals)"
+        ],
+        "ir_collection_id": [
+          943
+        ],
+        "ir_collection_name": [
+          "The Brown Journal of World Affairs"
+        ],
+        "mods_dateAll_ssim": [
+          "1998"
+        ],
+        "mods_dateAll_year_ssim": [
+          "1998"
+        ],
+        "mods_dateIssued_ssim": [
+          "1998"
+        ],
+        "mods_genre_aat_ssim": [
+          "journals (periodicals)"
+        ],
+        "mods_id_doi_ssi": "10.26300/wrac-1177",
+        "mods_language_code_ssim": [
+          "eng"
+        ],
+        "mods_language_ssim": [
+          "eng"
+        ],
+        "mods_name_nonplace_ssim": [
+          "Sharma, Shalinee",
+          "Dillon, Jeffrey W."
+        ],
+        "mods_part_detail_caption_ssim": [
+          "no."
+        ],
+        "mods_part_detail_full_ssim": [
+          "Volume no. 05",
+          "Issue no. 02"
+        ],
+        "mods_part_detail_issue_ssim": [
+          "no. 02"
+        ],
+        "mods_part_detail_joined_ssim": [
+          "Volume no. 05 > Issue no. 02"
+        ],
+        "mods_part_detail_number_ssim": [
+          "05",
+          "02"
+        ],
+        "mods_part_detail_volume_ssim": [
+          "no. 05"
+        ],
+        "mods_part_extent_page_end_ssim": [
+          "331"
+        ],
+        "mods_part_extent_page_ssim": [
+          "3-331"
+        ],
+        "mods_part_extent_page_start_ssim": [
+          "3"
+        ],
+        "mods_physicalDescription_digitalOrigin_ssim": [
+          "born digital"
+        ],
+        "mods_physicalDescription_extent_ssim": [
+          "pp. 329"
+        ],
+        "mods_related_id_issn_ssim": [
+          "1080-0786"
+        ],
+        "mods_related_title_partnumber_ssim": [
+          "Volume 5, Issue 2"
+        ],
+        "mods_role_editor_ssim": [
+          "Sharma, Shalinee",
+          "Dillon, Jeffrey W."
+        ],
+        "mods_role_ssim": [
+          "editor"
+        ],
+        "mods_title_full_primary_tsi": "The Brown Journal of World Affairs. Volume 5, Issue 2",
+        "mods_title_full_tsim": [
+          "The Brown Journal of World Affairs. Volume 5, Issue 2"
+        ],
+        "mods_title_part_volume_ssi": "vol. 05",
+        "mods_type_of_resource": [
+          "text"
+        ],
+        "name": [
+          "Sharma, Shalinee",
+          "Dillon, Jeffrey W."
+        ],
+        "object_created_dsi": "2020-01-29T21:32:31.786Z",
+        "object_last_modified_dsi": "2021-11-17T13:27:33.189Z",
+        "object_size_lsi": 5049,
+        "object_type": "implicit-set",
+        "other_title": [
+          "The Brown Journal of World Affairs"
+        ],
+        "partnumber": [
+          "Volume 5, Issue 2"
+        ],
+        "pid": "bdr:1079190",
+        "primary_title": "The Brown Journal of World Affairs",
+        "primary_title_txt_en_split": "The Brown Journal of World Affairs",
+        "rel_content_models_ssim": [
+          "commonMetadata",
+          "implicit-set"
+        ],
+        "rel_is_member_of_collection_ssim": [
+          "bdr:7jw67xk5"
+        ],
+        "rel_object_type_ssi": "implicit-set",
+        "resource_type_ssi": "text_resources",
+        "storage_location_ssi": "ocfl",
+        "timestamp": "2021-11-17T13:27:33.916Z",
+        "title_si": "The Brown Journal of World Affairs",
+        "uri": "https://repository.library.brown.edu/studio/item/bdr:1079190/"
+      }
+    ],
+    "isTranscriptOf": [],
+    "isTranslationOf": [],
+    "isVersionOf": []
+  },
+  "resource_type_ssi": "text_resources",
+  "storage_location_ssi": "ocfl",
+  "thumbnail": "https://repository.library.brown.edu/viewers/image/thumbnail/bdr:1079208/",
+  "timestamp": "2021-12-01T21:09:02.778Z",
+  "title_si": "The Feminization of Poverty in Africa: Roots and Branches",
+  "uri": "https://repository.library.brown.edu/studio/item/bdr:1079208/",
+  "views_dict": {}
+}

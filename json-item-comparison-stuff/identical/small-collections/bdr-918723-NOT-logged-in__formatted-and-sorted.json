@@ -1,0 +1,355 @@
+{
+  "_display_brown_bsi": false,
+  "_display_private_bsi": false,
+  "_display_public_bsi": true,
+  "abstract": [
+    "As of 2019, approximately 40,000 people from African countries are seeking asylum in Israel. These individuals arrived after having fled genocide in Darfur, forced and indefinite military conscription in Eritrea, or violence and persecution in other countries. Israel has deported thousands of asylum seekers back to their country of origin, violating international law, and has coerced thousands of others to repatriate to a third country. Meanwhile, those who remain in Israel are largely unrecognized by the state. This thesis draws upon the experiences of African asylum seekers in Israel in order to reveal weaknesses in international systems of refugee protection. I rely on ethnographic data gathered at the African Refugee Development Center (ARDC), a nonprofit organization that assists asylums seekers and refugees, including one on one interviews and participatory observation. Israel has a unique and complicated history of displacement: it has been both a haven for Jewish refugees and a site of forced displacement of Palestinians. The case of asylum seekers from African countries demonstrates a global failure to protect vulnerable populations through this distinctive example. This thesis examines the effects of racialized exclusionary policies and discusses attempts at solidarity and support. I investigate the liminal space that asylum seekers occupy and explore the effects of the perpetual “in-between” state in which they are held. This liminal existence is paralleled by actual experiences of detention in Saharonim Prison and Holot Residency Center. NGOs feature prominently in the lives of asylum seekers in Israel, filling in gaps where the state fails to provide and secure basic needs. Yet, while fundamental, these organizations are unable to fully compensate for the weaknesses in international protective measures and state inadequacies. Collective memory of the Holocaust leads some Israelis to sympathize with survivors of genocide from Darfur, However, these expressions of support come into conflict with racism and xenophobia in both public opinion and political rhetoric. By using the same terminology used previously to criminalize Palestinians, Israel labels asylum seekers as “infiltrators,” painting them as a threat. Bringing together issues of race, religion, and refugees, this study examines a universal issue through the lens of Israel’s particularities. As one interlocutor said, not only does this treatment violate Israel’s moral ideals, “it’s totally illegal to treat people like this.” Ultimately, this study indicates a need for stronger systems of international refugee protection that transcend domestic limitations."
+  ],
+  "api_links": {
+    "collections": {
+      "Development Studies": "https://repository.library.brown.edu/api/collections/bdr:vfja779p/"
+    },
+    "keywords": {
+      "Collective memory": "https://repository.library.brown.edu/api/search/?q='Collective%20memory'",
+      "Israel": "https://repository.library.brown.edu/api/search/?q='Israel'",
+      "Non-governmental organizations": "https://repository.library.brown.edu/api/search/?q='Non-governmental%20organizations'",
+      "Racism": "https://repository.library.brown.edu/api/search/?q='Racism'",
+      "Refugees": "https://repository.library.brown.edu/api/search/?q='Refugees'",
+      "detention": "https://repository.library.brown.edu/api/search/?q='detention'"
+    }
+  },
+  "brief": {
+    "abstract": [
+      "As of 2019, approximately 40,000 people from African countries are seeking asylum in Israel. These individuals arrived after having fled genocide in Darfur, forced and indefinite military conscription in Eritrea, or violence and persecution in other countries. Israel has deported thousands of asylum seekers back to their country of origin, violating international law, and has coerced thousands of others to repatriate to a third country. Meanwhile, those who remain in Israel are largely unrecognized by the state. This thesis draws upon the experiences of African asylum seekers in Israel in order to reveal weaknesses in international systems of refugee protection. I rely on ethnographic data gathered at the African Refugee Development Center (ARDC), a nonprofit organization that assists asylums seekers and refugees, including one on one interviews and participatory observation. Israel has a unique and complicated history of displacement: it has been both a haven for Jewish refugees and a site of forced displacement of Palestinians. The case of asylum seekers from African countries demonstrates a global failure to protect vulnerable populations through this distinctive example. This thesis examines the effects of racialized exclusionary policies and discusses attempts at solidarity and support. I investigate the liminal space that asylum seekers occupy and explore the effects of the perpetual “in-between” state in which they are held. This liminal existence is paralleled by actual experiences of detention in Saharonim Prison and Holot Residency Center. NGOs feature prominently in the lives of asylum seekers in Israel, filling in gaps where the state fails to provide and secure basic needs. Yet, while fundamental, these organizations are unable to fully compensate for the weaknesses in international protective measures and state inadequacies. Collective memory of the Holocaust leads some Israelis to sympathize with survivors of genocide from Darfur, However, these expressions of support come into conflict with racism and xenophobia in both public opinion and political rhetoric. By using the same terminology used previously to criminalize Palestinians, Israel labels asylum seekers as “infiltrators,” painting them as a threat. Bringing together issues of race, religion, and refugees, this study examines a universal issue through the lens of Israel’s particularities. As one interlocutor said, not only does this treatment violate Israel’s moral ideals, “it’s totally illegal to treat people like this.” Ultimately, this study indicates a need for stronger systems of international refugee protection that transcend domestic limitations."
+    ],
+    "contributors": [
+      "Murphy, Jessica (creator)",
+      "Zamindar, Vazira (thesis advisor)",
+      "Brown University. Development Studies (sponsor)"
+    ],
+    "copyright date": [
+      "2019"
+    ],
+    "full_title": [
+      "Uncertain Futures: Experiences of African Asylum Seekers in Israel and the Global Failure to Protect"
+    ],
+    "keywords": [
+      "Refugees",
+      "Racism",
+      "Collective memory",
+      "Israel",
+      "Non-governmental organizations",
+      "detention"
+    ],
+    "notes": [
+      "Senior thesis (AB)--Brown University, 2019",
+      "Concentration: Development Studies"
+    ],
+    "title": [
+      "Uncertain Futures: Experiences of African Asylum Seekers in Israel and the Global Failure to Protect"
+    ]
+  },
+  "catalog_links": [],
+  "collection_date": "2019-06-03T00:00:00Z",
+  "contributor": [
+    "Zamindar, Vazira",
+    "Brown University. Development Studies"
+  ],
+  "contributor_display": [
+    "Murphy, Jessica (creator)",
+    "Zamindar, Vazira (thesis advisor)",
+    "Brown University. Development Studies (sponsor)"
+  ],
+  "contributor_string": [
+    "Zamindar, Vazira",
+    "Brown University. Development Studies"
+  ],
+  "copyrightDate": "2019-01-01T00:00:00Z",
+  "copyrightDate_month_ssim": [
+    "01"
+  ],
+  "copyrightDate_month_text_ssim": [
+    "January"
+  ],
+  "copyrightDate_year_ssim": [
+    "2019"
+  ],
+  "creator": [
+    "Murphy, Jessica"
+  ],
+  "creator_string": [
+    "Murphy, Jessica"
+  ],
+  "datastreams": {
+    "DC": {
+      "checksum": "65e5f68b6c9f979a457666648db2b1190929d4c2d8f32b178d06b6df0b69cc1b99d30973eef9fca42353692e1e694d783b2aebf9926025cef5526f15f3bc2919",
+      "checksumType": "SHA-512",
+      "lastModified": "2019-06-03T17:42:01.866000Z",
+      "mimeType": "application/octet-stream",
+      "size": 339
+    },
+    "MODS": {
+      "checksum": "cbecaedcfe92a4dc4c74c858c859a3ab7a070f6f6a1c3b5ec1ed83dbbacee9403c6d09b61d1494800d82b738c88cfd33d324d71f350b8c48e1c4ccea3afc18eb",
+      "checksumType": "SHA-512",
+      "lastModified": "2019-06-03T17:42:01.866000Z",
+      "mimeType": "text/xml",
+      "size": 5760
+    },
+    "PDF": {
+      "checksum": "f133487471d6e8be72cdfc26b6201e53b379a659891d58a191ccb19452a03613be4ce70d382f9616373fe0333ee3a6320a578f8a9d220a7a19d2e77fce3d1364",
+      "checksumType": "SHA-512",
+      "lastModified": "2019-06-03T17:42:01.866000Z",
+      "mimeType": "application/pdf",
+      "size": 21411331
+    },
+    "RELS-EXT": {
+      "checksum": "65ce974b4db34438973cccb2fdf41979dbb4fc134cadbd2bd8957f0b5e309519576153280452c16c45ea18cecfda31d7afa1a21024779e539c372f976e758b89",
+      "checksumType": "SHA-512",
+      "lastModified": "2021-12-07T23:54:12.342249Z",
+      "mimeType": "text/xml",
+      "size": 547
+    },
+    "RELS-INT": {
+      "checksum": "7bcfcfebc8c964bb126317347d3cb982dd2957dfe21b2f27961324aabe81c17ad9c1f2d68482377106af47427326fd138fb79edcd0c719928fb633179481d935",
+      "checksumType": "SHA-512",
+      "lastModified": "2019-06-21T20:23:28.012000Z",
+      "mimeType": "text/xml",
+      "size": 541
+    },
+    "irMetadata": {
+      "checksum": "562c9f558fe87f5bdf56203df6a567917a52272e5170604697855e4fa7a9f259b7f9cd4c8436f3d3f922c803f712719f0490f2ac610f0c96b72b6807d5d4c9ee",
+      "checksumType": "SHA-512",
+      "lastModified": "2019-06-03T17:42:01.866000Z",
+      "mimeType": "application/octet-stream",
+      "size": 370
+    },
+    "rightsMetadata": {
+      "checksum": "5edd5282a7b4482ccfc4f2f781fc34475affcd57786048cf1313e6e41702d769a2f92f5de78d65f3d0330359ecb7d7ad83e438152075563afb320b68bbb644b2",
+      "checksumType": "SHA-512",
+      "lastModified": "2019-06-03T17:42:01.866000Z",
+      "mimeType": "application/octet-stream",
+      "size": 813
+    },
+    "thumbnail": {
+      "checksum": "0bd3c73b24dd65af9fdc109d65b315bf627cc7a409e09089095e37f4d368c981b0f68296ec44ca55d949ffe051c352735ffe6283ab50821b41d922f104fcfdf4",
+      "checksumType": "SHA-512",
+      "lastModified": "2019-06-21T20:23:27.842000Z",
+      "mimeType": "image/jpeg",
+      "size": 6099
+    }
+  },
+  "date_dsi": "2019-01-01T00:00:00Z",
+  "deposit_date": "2019-06-03T00:00:00Z",
+  "display_inline": "<iframe name=\"contentIframe\" src=\"https://repository.library.brown.edu/storage/bdr:918723/PDF/\" width=\"100%\" height=\"800\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+  "display_inline_src": "https://repository.library.brown.edu/storage/bdr:918723/PDF/",
+  "fed_created_dsi": "2019-06-03T17:42:01.866Z",
+  "fed_last_modified_dsi": "2021-12-07T23:54:12.342Z",
+  "fed_object_size_lsi": 21425800,
+  "genre": [
+    "theses"
+  ],
+  "genre_aat": [
+    "theses"
+  ],
+  "ir_collection_id": [
+    865
+  ],
+  "ir_collection_name": [
+    "Development Studies"
+  ],
+  "json_uri": "https://repository.library.brown.edu/api/items/bdr:918723/",
+  "keyword": [
+    "Refugees",
+    "Racism",
+    "Collective memory",
+    "Israel",
+    "Non-governmental organizations",
+    "detention"
+  ],
+  "links": {
+    "collections": {
+      "Development Studies": "https://repository.library.brown.edu/studio/collections/bdr:vfja779p/"
+    },
+    "content_datastreams": {
+      "PDF": "https://repository.library.brown.edu/storage/bdr:918723/PDF/"
+    },
+    "descriptive_datastreams": {
+      "MODS": "https://repository.library.brown.edu/storage/bdr:918723/MODS/"
+    },
+    "keywords": {
+      "Collective memory": "https://repository.library.brown.edu/studio/search/?q=\"Collective memory\"",
+      "Israel": "https://repository.library.brown.edu/studio/search/?q=\"Israel\"",
+      "Non-governmental organizations": "https://repository.library.brown.edu/studio/search/?q=\"Non-governmental organizations\"",
+      "Racism": "https://repository.library.brown.edu/studio/search/?q=\"Racism\"",
+      "Refugees": "https://repository.library.brown.edu/studio/search/?q=\"Refugees\"",
+      "detention": "https://repository.library.brown.edu/studio/search/?q=\"detention\""
+    },
+    "media_streams": [],
+    "thumbnail": "https://repository.library.brown.edu/viewers/image/thumbnail/bdr:918723/",
+    "views": {}
+  },
+  "mods_abstract_ssim": [
+    "As of 2019, approximately 40,000 people from African countries are seeking asylum in Israel. These individuals arrived after having fled genocide in Darfur, forced and indefinite military conscription in Eritrea, or violence and persecution in other countries. Israel has deported thousands of asylum seekers back to their country of origin, violating international law, and has coerced thousands of others to repatriate to a third country. Meanwhile, those who remain in Israel are largely unrecognized by the state. This thesis draws upon the experiences of African asylum seekers in Israel in order to reveal weaknesses in international systems of refugee protection. I rely on ethnographic data gathered at the African Refugee Development Center (ARDC), a nonprofit organization that assists asylums seekers and refugees, including one on one interviews and participatory observation. Israel has a unique and complicated history of displacement: it has been both a haven for Jewish refugees and a site of forced displacement of Palestinians. The case of asylum seekers from African countries demonstrates a global failure to protect vulnerable populations through this distinctive example. This thesis examines the effects of racialized exclusionary policies and discusses attempts at solidarity and support. I investigate the liminal space that asylum seekers occupy and explore the effects of the perpetual “in-between” state in which they are held. This liminal existence is paralleled by actual experiences of detention in Saharonim Prison and Holot Residency Center. NGOs feature prominently in the lives of asylum seekers in Israel, filling in gaps where the state fails to provide and secure basic needs. Yet, while fundamental, these organizations are unable to fully compensate for the weaknesses in international protective measures and state inadequacies. Collective memory of the Holocaust leads some Israelis to sympathize with survivors of genocide from Darfur, However, these expressions of support come into conflict with racism and xenophobia in both public opinion and political rhetoric. By using the same terminology used previously to criminalize Palestinians, Israel labels asylum seekers as “infiltrators,” painting them as a threat. Bringing together issues of race, religion, and refugees, this study examines a universal issue through the lens of Israel’s particularities. As one interlocutor said, not only does this treatment violate Israel’s moral ideals, “it’s totally illegal to treat people like this.” Ultimately, this study indicates a need for stronger systems of international refugee protection that transcend domestic limitations."
+  ],
+  "mods_access_condition_use_text_tsim": [
+    "This work is licensed under a All rights reserved license"
+  ],
+  "mods_copyrightDate_ssim": [
+    "2019"
+  ],
+  "mods_dateAll_ssim": [
+    "2019"
+  ],
+  "mods_dateAll_year_ssim": [
+    "2019"
+  ],
+  "mods_genre_aat_ssim": [
+    "theses"
+  ],
+  "mods_language_ssim": [
+    "English"
+  ],
+  "mods_language_text_ssim": [
+    "English"
+  ],
+  "mods_name_nonplace_ssim": [
+    "Murphy, Jessica",
+    "Zamindar, Vazira",
+    "Brown University. Development Studies"
+  ],
+  "mods_note_concentration_ssim": [
+    "Development Studies"
+  ],
+  "mods_note_thesis_ssim": [
+    "Senior thesis (AB)--Brown University, 2019"
+  ],
+  "mods_physicalDescription_digitalOrigin_ssim": [
+    "born digital"
+  ],
+  "mods_role_creator_ssim": [
+    "Murphy, Jessica"
+  ],
+  "mods_role_sponsor_ssim": [
+    "Brown University. Development Studies"
+  ],
+  "mods_role_ssim": [
+    "creator",
+    "thesis advisor",
+    "sponsor"
+  ],
+  "mods_role_thesis_advisor_ssim": [
+    "Zamindar, Vazira"
+  ],
+  "mods_subject_fast_ssim": [
+    "Refugees",
+    "Racism",
+    "Collective memory",
+    "Israel",
+    "Non-governmental organizations",
+    "detention"
+  ],
+  "mods_subject_joined_fast_ssim": [
+    "Refugees",
+    "Racism",
+    "Collective memory",
+    "Israel",
+    "Non-governmental organizations",
+    "detention"
+  ],
+  "mods_subject_joined_ssim": [
+    "Refugees",
+    "Racism",
+    "Collective memory",
+    "Israel",
+    "Non-governmental organizations",
+    "detention"
+  ],
+  "mods_subject_ssim": [
+    "Refugees",
+    "Racism",
+    "Collective memory",
+    "Israel",
+    "Non-governmental organizations",
+    "detention"
+  ],
+  "mods_title_full_primary_tsi": "Uncertain Futures: Experiences of African Asylum Seekers in Israel and the Global Failure to Protect",
+  "mods_title_full_tsim": [
+    "Uncertain Futures: Experiences of African Asylum Seekers in Israel and the Global Failure to Protect"
+  ],
+  "mods_type_of_resource": [
+    "text"
+  ],
+  "name": [
+    "Murphy, Jessica",
+    "Zamindar, Vazira",
+    "Brown University. Development Studies"
+  ],
+  "note": [
+    "Senior thesis (AB)--Brown University, 2019",
+    "Concentration: Development Studies"
+  ],
+  "object_created_dsi": "2019-06-03T17:42:01.866Z",
+  "object_last_modified_dsi": "2021-12-07T23:54:12.342Z",
+  "object_size_lsi": 21425800,
+  "object_type": "pdf",
+  "pid": "bdr:918723",
+  "primary_download_link": "https://repository.library.brown.edu/storage/bdr:918723/PDF/",
+  "primary_title": "Uncertain Futures: Experiences of African Asylum Seekers in Israel and the Global Failure to Protect",
+  "primary_title_txt_en_split": "Uncertain Futures: Experiences of African Asylum Seekers in Israel and the Global Failure to Protect",
+  "rel_content_models_ssim": [
+    "pdf",
+    "commonMetadata"
+  ],
+  "rel_is_member_of_collection_ssim": [
+    "bdr:vfja779p"
+  ],
+  "rel_object_type_ssi": "pdf",
+  "relations": {
+    "hasAnnotation": [],
+    "hasDerivation": [],
+    "hasDescription": [],
+    "hasPart": [],
+    "hasTranscript": [],
+    "hasTranslation": [],
+    "isDerivationOf": [],
+    "isMemberOf": [],
+    "isMemberOfCollection": [
+      {
+        "ancestors": [],
+        "child_folders": [
+          {
+            "db_id": 866,
+            "description": "",
+            "id": "bdr:w23grtnp",
+            "json_uri": "https://repository.library.brown.edu/api/collections/bdr:w23grtnp/",
+            "name": "Theses and Dissertations",
+            "pid": "bdr:w23grtnp",
+            "tags": [],
+            "uri": "https://repository.library.brown.edu/studio/collections/bdr:w23grtnp/"
+          }
+        ],
+        "db_id": 865,
+        "description": "Development Studies is an interdisciplinary social science concentration. The study of complex processes of social and economic development has theoretical, methodological, practical and ethical dimensions. As such, it calls on a wide range of academic disciplines. Development Studies concentrators are encouraged to develop the combination of skills and specialized knowledge that is best suited to their area of interest within the field. The study of development in a particular region or nation requires an intimate knowledge of internal factors, as well as an understanding of larger global processes.",
+        "id": "bdr:vfja779p",
+        "json_uri": "https://repository.library.brown.edu/api/collections/bdr:vfja779p/",
+        "name": "Development Studies",
+        "parent_folders": [],
+        "pid": "bdr:vfja779p",
+        "tags": [],
+        "thumbnail_url": "https://repository.library.brown.edu/storage/bdr:vfja779p/thumbnail/",
+        "uri": "https://repository.library.brown.edu/studio/collections/bdr:vfja779p/"
+      }
+    ],
+    "isPartOf": [],
+    "isTranscriptOf": [],
+    "isTranslationOf": [],
+    "isVersionOf": []
+  },
+  "resource_type_ssi": "text_resources",
+  "storage_location_ssi": "ocfl",
+  "thumbnail": "https://repository.library.brown.edu/viewers/image/thumbnail/bdr:918723/",
+  "timestamp": "2021-12-07T23:54:14.230Z",
+  "title_si": "Uncertain Futures: Experiences of African Asylum Seekers in Israel and the Global Failure to Protect",
+  "uri": "https://repository.library.brown.edu/studio/item/bdr:918723/",
+  "views_dict": {}
+}

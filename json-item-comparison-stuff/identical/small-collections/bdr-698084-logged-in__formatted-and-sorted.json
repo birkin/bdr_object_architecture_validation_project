@@ -1,0 +1,1422 @@
+{
+  "_display_brown_bsi": false,
+  "_display_private_bsi": false,
+  "_display_public_bsi": true,
+  "abstract": [
+    "A team of graduate students from Brown's Public Humanities program created \"Collect Yourshelf.\" Taking on the role of librarians, players in this game worked to build the best \"shelf\" of library materials they could find, having to pull from each of Brown's different libraries. A player's shelf can only hold one item from each library, so it is important to think carefully about what to put on your shelf. The whole game is driven by action cards, which give instruction for what to do on your turn. To create various levels of interaction in \"Collect Yourshelf,\" the team created regular, intensified, and extreme action cards."
+  ],
+  "api_links": {
+    "collections": {
+      "Brown University Library Innovation Prize": "https://repository.library.brown.edu/api/collections/bdr:4hd866bq/"
+    },
+    "keywords": {
+      "Brown University. Library. Innovation Prize": "https://repository.library.brown.edu/api/search/?q='Brown%20University.%20Library.%20Innovation%20Prize'",
+      "Games": "https://repository.library.brown.edu/api/search/?q='Games'"
+    }
+  },
+  "brief": {
+    "abstract": [
+      "A team of graduate students from Brown's Public Humanities program created \"Collect Yourshelf.\" Taking on the role of librarians, players in this game worked to build the best \"shelf\" of library materials they could find, having to pull from each of Brown's different libraries. A player's shelf can only hold one item from each library, so it is important to think carefully about what to put on your shelf. The whole game is driven by action cards, which give instruction for what to do on your turn. To create various levels of interaction in \"Collect Yourshelf,\" the team created regular, intensified, and extreme action cards."
+    ],
+    "contributors": [
+      "Burgin, Leah (creator)",
+      "French, Tyler (creator)",
+      "Ledesma, Andrea (creator)",
+      "Zwart, Inge (creator)",
+      "Unverzagt Goddard, Maggie (creator)"
+    ],
+    "date created": [
+      "2016-05-04"
+    ],
+    "extent": [
+      "6 photographs"
+    ],
+    "full_title": [
+      "Collect yourshelf"
+    ],
+    "keywords": [
+      "Games",
+      "Brown University. Library. Innovation Prize"
+    ],
+    "notes": [
+      "This submission was a runner-up for the 2016 Brown University Library Innovation Prize"
+    ],
+    "title": [
+      "Collect yourshelf"
+    ]
+  },
+  "catalog_links": [],
+  "collection_date": "2017-10-16T00:00:00Z",
+  "contributor_display": [
+    "Burgin, Leah (creator)",
+    "French, Tyler (creator)",
+    "Ledesma, Andrea (creator)",
+    "Zwart, Inge (creator)",
+    "Unverzagt Goddard, Maggie (creator)"
+  ],
+  "creator": [
+    "Burgin, Leah",
+    "French, Tyler",
+    "Ledesma, Andrea",
+    "Zwart, Inge",
+    "Unverzagt Goddard, Maggie"
+  ],
+  "creator_string": [
+    "Burgin, Leah",
+    "French, Tyler",
+    "Ledesma, Andrea",
+    "Zwart, Inge",
+    "Unverzagt Goddard, Maggie"
+  ],
+  "datastreams": {
+    "DC": {
+      "checksum": "17c54fabe8425e4799d612cdab629e0fd430419568a3dab0504fd2ee80ec495a30467328a978897aa12dae2f3bbcfc962fa5cda74f01e46e1a8ed8a09f59a9ee",
+      "checksumType": "SHA-512",
+      "lastModified": "2017-10-16T16:52:26.133000Z",
+      "mimeType": "application/octet-stream",
+      "size": 339
+    },
+    "MODS": {
+      "checksum": "1c59c9141fad68990be6bd225ef965225e485bcec8e6fb647f17b84b071f94a76eaee5c849cd75aa83c6e4751a8c01f6faba0f80d163585524b955e08cd73352",
+      "checksumType": "SHA-512",
+      "lastModified": "2019-01-22T15:46:22.169000Z",
+      "mimeType": "text/xml",
+      "size": 3439
+    },
+    "RELS-EXT": {
+      "checksum": "7c6007d5b32e749898b30a46c934a76084c139ce1831293d8b40da0ae95df87a43a9ea4777170ee78ef454ca119c371c08b90024bcffe26e75b174fadfdece9d",
+      "checksumType": "SHA-512",
+      "lastModified": "2021-11-30T02:40:25.053694Z",
+      "mimeType": "text/xml",
+      "size": 556
+    },
+    "RELS-INT": {
+      "checksum": "3d76bece02bc47ada26f7357f2aaedcd170387c35744734d40ee835c05ca0e2debcf4e5ca9f72bd0e7ec7d9950b8679c602424ec4d6eca663214a61e29d17073",
+      "checksumType": "SHA-512",
+      "lastModified": "2017-10-16T16:52:26.133000Z",
+      "mimeType": "text/xml",
+      "size": 197
+    },
+    "irMetadata": {
+      "checksum": "391530e839e6881a6b413c56533734b5f0a9fcf0eb9bd0ec2875f3a71f5db0e8f13242e8341ebd80808d81b1cb23d32234bcf239b8a38f51767e000690e39d54",
+      "checksumType": "SHA-512",
+      "lastModified": "2017-10-16T16:52:26.133000Z",
+      "mimeType": "application/octet-stream",
+      "size": 370
+    },
+    "rightsMetadata": {
+      "checksum": "c00a908fe94c82294326b83a724da68bd338e241b1835b2c64e8cc0568d33a382b7007a5bd216377112f4a4327666e8e3cac0e59b22ec531f28ea4752b2b9c99",
+      "checksumType": "SHA-512",
+      "lastModified": "2017-10-16T16:52:26.133000Z",
+      "mimeType": "application/octet-stream",
+      "size": 813
+    }
+  },
+  "dateCreated": "2016-05-04T00:00:00Z",
+  "dateCreated_month_ssim": [
+    "05"
+  ],
+  "dateCreated_month_text_ssim": [
+    "May"
+  ],
+  "dateCreated_year_ssim": [
+    "2016"
+  ],
+  "date_dsi": "2016-05-04T00:00:00Z",
+  "deposit_date": "2017-10-16T00:00:00Z",
+  "display_inline": "<iframe name=\"contentIframe\" src=\"https://repository.library.brown.edu/viewers/readers/portfolio/bdr:698084/\" width=\"100%\" height=\"800\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+  "display_inline_src": "https://repository.library.brown.edu/viewers/readers/portfolio/bdr:698084/",
+  "fed_created_dsi": "2017-10-16T16:52:26.133Z",
+  "fed_last_modified_dsi": "2021-11-30T02:40:25.053Z",
+  "fed_object_size_lsi": 5714,
+  "genre": [
+    "games"
+  ],
+  "genre_aat": [
+    "games"
+  ],
+  "iiif_resource_bsi": true,
+  "image_parent_bsi": true,
+  "ir_collection_id": [
+    745
+  ],
+  "ir_collection_name": [
+    "Brown University Library Innovation Prize"
+  ],
+  "json_uri": "https://repository.library.brown.edu/api/items/bdr:698084/",
+  "keyword": [
+    "Games",
+    "Brown University. Library. Innovation Prize"
+  ],
+  "links": {
+    "collections": {
+      "Brown University Library Innovation Prize": "https://repository.library.brown.edu/studio/collections/bdr:4hd866bq/"
+    },
+    "content_datastreams": {},
+    "descriptive_datastreams": {
+      "MODS": "https://repository.library.brown.edu/storage/bdr:698084/MODS/"
+    },
+    "keywords": {
+      "Brown University. Library. Innovation Prize": "https://repository.library.brown.edu/studio/search/?q=\"Brown University. Library. Innovation Prize\"",
+      "Games": "https://repository.library.brown.edu/studio/search/?q=\"Games\""
+    },
+    "media_streams": [],
+    "thumbnail": "https://repository.library.brown.edu/viewers/image/thumbnail/bdr:698084/",
+    "views": {
+      "Book View": "https://repository.library.brown.edu/viewers/readers/set/bdr:698084/",
+      "Mirador Viewer": "https://repository.library.brown.edu/viewers/mirador/bdr:698084/",
+      "Portfolio View": "https://repository.library.brown.edu/viewers/readers/portfolio/bdr:698084/",
+      "Universal Viewer": "https://repository.library.brown.edu/viewers/universal/bdr:698084/",
+      "iiif_manifest": "https://repository.library.brown.edu/iiif/presentation/bdr:698084/manifest.json"
+    }
+  },
+  "mods_abstract_ssim": [
+    "A team of graduate students from Brown's Public Humanities program created \"Collect Yourshelf.\" Taking on the role of librarians, players in this game worked to build the best \"shelf\" of library materials they could find, having to pull from each of Brown's different libraries. A player's shelf can only hold one item from each library, so it is important to think carefully about what to put on your shelf. The whole game is driven by action cards, which give instruction for what to do on your turn. To create various levels of interaction in \"Collect Yourshelf,\" the team created regular, intensified, and extreme action cards."
+  ],
+  "mods_access_condition_logo_ssim": [
+    "https://licensebuttons.net/l/by/4.0/88x31.png/"
+  ],
+  "mods_access_condition_use_link_ssim": [
+    "https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "mods_access_condition_use_text_tsim": [
+    "This work is licensed under a Creative Commons Attribution 4.0 International license"
+  ],
+  "mods_dateAll_ssim": [
+    "2016-05-04"
+  ],
+  "mods_dateAll_year_ssim": [
+    "2016"
+  ],
+  "mods_dateCreated_ssim": [
+    "2016-05-04"
+  ],
+  "mods_genre_aat_ssim": [
+    "games"
+  ],
+  "mods_id": "bdr698084",
+  "mods_language_code_ssim": [
+    "eng"
+  ],
+  "mods_language_ssim": [
+    "eng"
+  ],
+  "mods_name_nonplace_ssim": [
+    "Burgin, Leah",
+    "French, Tyler",
+    "Ledesma, Andrea",
+    "Zwart, Inge",
+    "Unverzagt Goddard, Maggie"
+  ],
+  "mods_physicalDescription_digitalOrigin_ssim": [
+    "born digital"
+  ],
+  "mods_physicalDescription_extent_ssim": [
+    "6 photographs"
+  ],
+  "mods_role_creator_ssim": [
+    "Burgin, Leah",
+    "French, Tyler",
+    "Ledesma, Andrea",
+    "Zwart, Inge",
+    "Unverzagt Goddard, Maggie"
+  ],
+  "mods_role_ssim": [
+    "creator"
+  ],
+  "mods_subject_joined_l_ssim": [
+    "Brown University. Library. Innovation Prize"
+  ],
+  "mods_subject_joined_lcsh_ssim": [
+    "Games"
+  ],
+  "mods_subject_joined_ssim": [
+    "Games",
+    "Brown University. Library. Innovation Prize"
+  ],
+  "mods_subject_l_ssim": [
+    "Brown University. Library. Innovation Prize"
+  ],
+  "mods_subject_lcsh_ssim": [
+    "Games"
+  ],
+  "mods_subject_ssim": [
+    "Games",
+    "Brown University. Library. Innovation Prize"
+  ],
+  "mods_title_full_primary_tsi": "Collect yourshelf",
+  "mods_title_full_tsim": [
+    "Collect yourshelf"
+  ],
+  "mods_type_of_resource": [
+    "still image"
+  ],
+  "name": [
+    "Burgin, Leah",
+    "French, Tyler",
+    "Ledesma, Andrea",
+    "Zwart, Inge",
+    "Unverzagt Goddard, Maggie"
+  ],
+  "note": [
+    "This submission was a runner-up for the 2016 Brown University Library Innovation Prize"
+  ],
+  "object_created_dsi": "2017-10-16T16:52:26.133Z",
+  "object_last_modified_dsi": "2021-11-30T02:40:25.053Z",
+  "object_size_lsi": 5714,
+  "object_type": "implicit-set",
+  "pid": "bdr:698084",
+  "primary_download_link": "https://repository.library.brown.edu/viewers/readers/portfolio/bdr:698084/",
+  "primary_title": "Collect yourshelf",
+  "primary_title_txt_en_split": "Collect yourshelf",
+  "rel_content_models_ssim": [
+    "commonMetadata",
+    "implicit-set"
+  ],
+  "rel_is_member_of_collection_ssim": [
+    "bdr:4hd866bq"
+  ],
+  "rel_object_type_ssi": "implicit-set",
+  "relations": {
+    "hasAnnotation": [],
+    "hasDerivation": [],
+    "hasDescription": [],
+    "hasPart": [
+      {
+        "_display_brown_bsi": false,
+        "_display_private_bsi": false,
+        "_display_public_bsi": true,
+        "abstract": [
+          "A team of graduate students from Brown's Public Humanities program created \"Collect Yourshelf.\" Taking on the role of librarians, players in this game worked to build the best \"shelf\" of library materials they could find, having to pull from each of Brown's different libraries. A player's shelf can only hold one item from each library, so it is important to think carefully about what to put on your shelf. The whole game is driven by action cards, which give instruction for what to do on your turn. To create various levels of interaction in \"Collect Yourshelf,\" the team created regular, intensified, and extreme action cards."
+        ],
+        "collection_date": "2017-10-16T00:00:00Z",
+        "contributor_display": [
+          "Burgin, Leah (creator)",
+          "French, Tyler (creator)",
+          "Ledesma, Andrea (creator)",
+          "Zwart, Inge (creator)",
+          "Unverzagt Goddard, Maggie (creator)"
+        ],
+        "creator": [
+          "Burgin, Leah",
+          "French, Tyler",
+          "Ledesma, Andrea",
+          "Zwart, Inge",
+          "Unverzagt Goddard, Maggie"
+        ],
+        "creator_string": [
+          "Burgin, Leah",
+          "French, Tyler",
+          "Ledesma, Andrea",
+          "Zwart, Inge",
+          "Unverzagt Goddard, Maggie"
+        ],
+        "datastreams_ssi": "{\"MASTER\": {\"mimeType\": \"image/tiff\", \"size\": 54863424, \"checksum\": \"087b5a3ff2d896b2412f10f8dd6ddbd5f9cc6e09bc3bfb2b353dc11ba92e81250f502b8db476f298d7ffcd263e885553388e5ee60f4d51f11c606bd9170a828b\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2017-10-16T16:52:27.366000Z\"}, \"RELS-INT\": {\"mimeType\": \"text/xml\", \"size\": 692, \"checksum\": \"34285f7b7141dac0f45eb55ee397bb37787368773975bdb7e66f4a641838902cd17b1ab2e0b0d85acdfbfbb35ee8e6bc2868861d6ff6122177ef7d9e633355a6\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2017-10-16T20:18:00.608000Z\"}, \"DC\": {\"mimeType\": \"application/octet-stream\", \"size\": 339, \"checksum\": \"363763bd434b1a653e81823f3b68ef5f7dd563d4bdbcee32767f8255465667fcff0673a87d4734a16f33bf00073af2d3585dd05ce32e3313c99213e58eb72f37\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2017-10-16T16:52:27.366000Z\"}, \"irMetadata\": {\"mimeType\": \"application/octet-stream\", \"size\": 370, \"checksum\": \"391530e839e6881a6b413c56533734b5f0a9fcf0eb9bd0ec2875f3a71f5db0e8f13242e8341ebd80808d81b1cb23d32234bcf239b8a38f51767e000690e39d54\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2017-10-16T16:52:27.366000Z\"}, \"thumbnail\": {\"mimeType\": \"application/octet-stream\", \"size\": 21270, \"checksum\": \"53038963d5b86e13e3d9d05a28f4483a20cfa1ea462b2ba8ee4ae9019569f6418b1d27444fe4478b739fb9a63f5b3d42ff6e8001054ccc2b0d0472f1eb9246c1\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2017-10-16T20:18:00.469000Z\"}, \"JP2\": {\"mimeType\": \"image/jp2\", \"size\": 13170747, \"checksum\": \"68dfd3bdcbc5af7b7811491f61c1d992de0a8c7e0d9e6c9d704ba03df023033563751d9fb4a32a076c4101edc2f9c05165f561ed10099c84211ea6f05345b183\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2017-10-16T16:52:27.366000Z\"}, \"RELS-EXT\": {\"mimeType\": \"text/xml\", \"size\": 819, \"checksum\": \"880abb51191af4a8a97e174e666d0765231d283c322b96fcd8bb8ee3cc514abcbffd901ef2c01eb075fd6b5fc886314e78cf7814cd18004d561d6ced58614dd4\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2021-11-30T17:37:57.854356Z\"}, \"rightsMetadata\": {\"mimeType\": \"application/octet-stream\", \"size\": 814, \"checksum\": \"dd9e609a2a3e398918b9432e44da14cc20e0b59ef48648c4cf1cff62e3d9dd3645229a5308491d01aca414965d289b1e7954d0b938874e97a76db20a3eaa01f7\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2017-10-16T16:52:27.366000Z\"}}",
+        "dateCreated": "2016-05-04T00:00:00Z",
+        "dateCreated_month_ssim": [
+          "05"
+        ],
+        "dateCreated_month_text_ssim": [
+          "May"
+        ],
+        "dateCreated_year_ssim": [
+          "2016"
+        ],
+        "date_dsi": "2016-05-04T00:00:00Z",
+        "deposit_date": "2017-10-16T00:00:00Z",
+        "display_label": "page-image",
+        "fed_created_dsi": "2017-10-16T16:52:27.366Z",
+        "fed_last_modified_dsi": "2021-11-30T17:37:57.854Z",
+        "fed_object_size_lsi": 68058475,
+        "genre": [
+          "games"
+        ],
+        "genre_aat": [
+          "games"
+        ],
+        "iiif_resource_bsi": true,
+        "ir_collection_id": [
+          745
+        ],
+        "ir_collection_name": [
+          "Brown University Library Innovation Prize"
+        ],
+        "keyword": [
+          "Games",
+          "Brown University. Library. Innovation Prize"
+        ],
+        "mods_abstract_ssim": [
+          "A team of graduate students from Brown's Public Humanities program created \"Collect Yourshelf.\" Taking on the role of librarians, players in this game worked to build the best \"shelf\" of library materials they could find, having to pull from each of Brown's different libraries. A player's shelf can only hold one item from each library, so it is important to think carefully about what to put on your shelf. The whole game is driven by action cards, which give instruction for what to do on your turn. To create various levels of interaction in \"Collect Yourshelf,\" the team created regular, intensified, and extreme action cards."
+        ],
+        "mods_access_condition_logo_ssim": [
+          "https://licensebuttons.net/l/by/4.0/88x31.png/"
+        ],
+        "mods_access_condition_use_link_ssim": [
+          "https://creativecommons.org/licenses/by/4.0/"
+        ],
+        "mods_access_condition_use_text_tsim": [
+          "This work is licensed under a Creative Commons Attribution 4.0 International license"
+        ],
+        "mods_dateAll_ssim": [
+          "2016-05-04"
+        ],
+        "mods_dateAll_year_ssim": [
+          "2016"
+        ],
+        "mods_dateCreated_ssim": [
+          "2016-05-04"
+        ],
+        "mods_genre_aat_ssim": [
+          "games"
+        ],
+        "mods_id": "bdr698084",
+        "mods_language_code_ssim": [
+          "eng"
+        ],
+        "mods_language_ssim": [
+          "eng"
+        ],
+        "mods_name_nonplace_ssim": [
+          "Burgin, Leah",
+          "French, Tyler",
+          "Ledesma, Andrea",
+          "Zwart, Inge",
+          "Unverzagt Goddard, Maggie"
+        ],
+        "mods_physicalDescription_digitalOrigin_ssim": [
+          "born digital"
+        ],
+        "mods_physicalDescription_extent_ssim": [
+          "6 photographs"
+        ],
+        "mods_role_creator_ssim": [
+          "Burgin, Leah",
+          "French, Tyler",
+          "Ledesma, Andrea",
+          "Zwart, Inge",
+          "Unverzagt Goddard, Maggie"
+        ],
+        "mods_role_ssim": [
+          "creator"
+        ],
+        "mods_subject_joined_l_ssim": [
+          "Brown University. Library. Innovation Prize"
+        ],
+        "mods_subject_joined_lcsh_ssim": [
+          "Games"
+        ],
+        "mods_subject_joined_ssim": [
+          "Games",
+          "Brown University. Library. Innovation Prize"
+        ],
+        "mods_subject_l_ssim": [
+          "Brown University. Library. Innovation Prize"
+        ],
+        "mods_subject_lcsh_ssim": [
+          "Games"
+        ],
+        "mods_subject_ssim": [
+          "Games",
+          "Brown University. Library. Innovation Prize"
+        ],
+        "mods_title_full_primary_tsi": "Collect yourshelf",
+        "mods_title_full_tsim": [
+          "Collect yourshelf"
+        ],
+        "mods_type_of_resource": [
+          "still image"
+        ],
+        "name": [
+          "Burgin, Leah",
+          "French, Tyler",
+          "Ledesma, Andrea",
+          "Zwart, Inge",
+          "Unverzagt Goddard, Maggie"
+        ],
+        "note": [
+          "This submission was a runner-up for the 2016 Brown University Library Innovation Prize"
+        ],
+        "object_created_dsi": "2017-10-16T16:52:27.366Z",
+        "object_last_modified_dsi": "2021-11-30T17:37:57.854Z",
+        "object_size_lsi": 68058475,
+        "object_type": "image",
+        "order": "1",
+        "pid": "bdr:744968",
+        "primary_title": "Collect yourshelf",
+        "primary_title_txt_en_split": "Collect yourshelf",
+        "rel_content_models_ssim": [
+          "jp2",
+          "masterImage",
+          "commonMetadata"
+        ],
+        "rel_has_pagination_ssim": [
+          "1"
+        ],
+        "rel_is_member_of_collection_ssim": [
+          "bdr:4hd866bq"
+        ],
+        "rel_is_part_of_ssim": [
+          "bdr:698084"
+        ],
+        "rel_object_type_ssi": "image",
+        "resource_type_ssi": "images",
+        "storage_location_ssi": "ocfl",
+        "timestamp": "2021-11-30T17:37:58.626Z",
+        "title_si": "Collect yourshelf",
+        "uri": "https://repository.library.brown.edu/studio/item/bdr:744968/"
+      },
+      {
+        "_display_brown_bsi": false,
+        "_display_private_bsi": false,
+        "_display_public_bsi": true,
+        "abstract": [
+          "A team of graduate students from Brown's Public Humanities program created \"Collect Yourshelf.\" Taking on the role of librarians, players in this game worked to build the best \"shelf\" of library materials they could find, having to pull from each of Brown's different libraries. A player's shelf can only hold one item from each library, so it is important to think carefully about what to put on your shelf. The whole game is driven by action cards, which give instruction for what to do on your turn. To create various levels of interaction in \"Collect Yourshelf,\" the team created regular, intensified, and extreme action cards."
+        ],
+        "collection_date": "2017-10-16T00:00:00Z",
+        "contributor_display": [
+          "Burgin, Leah (creator)",
+          "French, Tyler (creator)",
+          "Ledesma, Andrea (creator)",
+          "Zwart, Inge (creator)",
+          "Unverzagt Goddard, Maggie (creator)"
+        ],
+        "creator": [
+          "Burgin, Leah",
+          "French, Tyler",
+          "Ledesma, Andrea",
+          "Zwart, Inge",
+          "Unverzagt Goddard, Maggie"
+        ],
+        "creator_string": [
+          "Burgin, Leah",
+          "French, Tyler",
+          "Ledesma, Andrea",
+          "Zwart, Inge",
+          "Unverzagt Goddard, Maggie"
+        ],
+        "datastreams_ssi": "{\"JP2\": {\"mimeType\": \"image/jp2\", \"size\": 14643929, \"checksum\": \"0ea238db06be90a4b951250f1e610617f2f20ad1ebf488518b328ec85fba84fc47aa85d12f20b2364936712965b8af89d1a22a81368ebe84b127b28ff1b52114\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2017-10-16T16:52:36.730000Z\"}, \"irMetadata\": {\"mimeType\": \"application/octet-stream\", \"size\": 370, \"checksum\": \"391530e839e6881a6b413c56533734b5f0a9fcf0eb9bd0ec2875f3a71f5db0e8f13242e8341ebd80808d81b1cb23d32234bcf239b8a38f51767e000690e39d54\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2017-10-16T16:52:36.730000Z\"}, \"RELS-INT\": {\"mimeType\": \"text/xml\", \"size\": 692, \"checksum\": \"558aff05c1256a45d87c2af3bff7676ef4ed020cf5826cc8bc5dacfff4c877c784d45222bf844ba7bfdd0fa6547af58f739ce3ba3d9758b7f65ee6f1ac5af3ca\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2017-10-16T20:17:56.183000Z\"}, \"DC\": {\"mimeType\": \"application/octet-stream\", \"size\": 339, \"checksum\": \"72a99383794d221792a61775dd4b46629f6160e33dfea84845dce9156baa2ad11714fd8a52c06ec2629871e5548874de04c94f1155d331f32cd46b48524632a6\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2017-10-16T16:52:36.730000Z\"}, \"rightsMetadata\": {\"mimeType\": \"application/octet-stream\", \"size\": 814, \"checksum\": \"dd9e609a2a3e398918b9432e44da14cc20e0b59ef48648c4cf1cff62e3d9dd3645229a5308491d01aca414965d289b1e7954d0b938874e97a76db20a3eaa01f7\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2017-10-16T16:52:36.730000Z\"}, \"RELS-EXT\": {\"mimeType\": \"text/xml\", \"size\": 819, \"checksum\": \"e479b305b0a816b63356271e3aef08584359fdf99d4be7b3c39a9928db2a571247a6e5b03b56367ced5b417008955b217cb76bf9d65fd21ab3c91059f5341ab1\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2021-11-30T17:38:00.197096Z\"}, \"thumbnail\": {\"mimeType\": \"application/octet-stream\", \"size\": 21979, \"checksum\": \"f4d11b7d224ec8552bba2c8bcf565116091b656cf2ebeac50bc599ca86939542dc9475d49a314b601ab35de5194bb6b8daf8650a7663b8538f962f73c4d7e5cb\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2017-10-16T20:17:55.978000Z\"}, \"MASTER\": {\"mimeType\": \"image/tiff\", \"size\": 57663024, \"checksum\": \"ff3e27c21e79c424bcd3aaff7566307a12bf8116e8a084762adc491a04c31f73954df70e85c0f92ede8995a98c442444101583ac9c9d8d847712238f73499382\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2017-10-16T16:52:36.730000Z\"}}",
+        "dateCreated": "2016-05-04T00:00:00Z",
+        "dateCreated_month_ssim": [
+          "05"
+        ],
+        "dateCreated_month_text_ssim": [
+          "May"
+        ],
+        "dateCreated_year_ssim": [
+          "2016"
+        ],
+        "date_dsi": "2016-05-04T00:00:00Z",
+        "deposit_date": "2017-10-16T00:00:00Z",
+        "display_label": "page-image",
+        "fed_created_dsi": "2017-10-16T16:52:36.730Z",
+        "fed_last_modified_dsi": "2021-11-30T17:38:00.197Z",
+        "fed_object_size_lsi": 72331966,
+        "genre": [
+          "games"
+        ],
+        "genre_aat": [
+          "games"
+        ],
+        "iiif_resource_bsi": true,
+        "ir_collection_id": [
+          745
+        ],
+        "ir_collection_name": [
+          "Brown University Library Innovation Prize"
+        ],
+        "keyword": [
+          "Games",
+          "Brown University. Library. Innovation Prize"
+        ],
+        "mods_abstract_ssim": [
+          "A team of graduate students from Brown's Public Humanities program created \"Collect Yourshelf.\" Taking on the role of librarians, players in this game worked to build the best \"shelf\" of library materials they could find, having to pull from each of Brown's different libraries. A player's shelf can only hold one item from each library, so it is important to think carefully about what to put on your shelf. The whole game is driven by action cards, which give instruction for what to do on your turn. To create various levels of interaction in \"Collect Yourshelf,\" the team created regular, intensified, and extreme action cards."
+        ],
+        "mods_access_condition_logo_ssim": [
+          "https://licensebuttons.net/l/by/4.0/88x31.png/"
+        ],
+        "mods_access_condition_use_link_ssim": [
+          "https://creativecommons.org/licenses/by/4.0/"
+        ],
+        "mods_access_condition_use_text_tsim": [
+          "This work is licensed under a Creative Commons Attribution 4.0 International license"
+        ],
+        "mods_dateAll_ssim": [
+          "2016-05-04"
+        ],
+        "mods_dateAll_year_ssim": [
+          "2016"
+        ],
+        "mods_dateCreated_ssim": [
+          "2016-05-04"
+        ],
+        "mods_genre_aat_ssim": [
+          "games"
+        ],
+        "mods_id": "bdr698084",
+        "mods_language_code_ssim": [
+          "eng"
+        ],
+        "mods_language_ssim": [
+          "eng"
+        ],
+        "mods_name_nonplace_ssim": [
+          "Burgin, Leah",
+          "French, Tyler",
+          "Ledesma, Andrea",
+          "Zwart, Inge",
+          "Unverzagt Goddard, Maggie"
+        ],
+        "mods_physicalDescription_digitalOrigin_ssim": [
+          "born digital"
+        ],
+        "mods_physicalDescription_extent_ssim": [
+          "6 photographs"
+        ],
+        "mods_role_creator_ssim": [
+          "Burgin, Leah",
+          "French, Tyler",
+          "Ledesma, Andrea",
+          "Zwart, Inge",
+          "Unverzagt Goddard, Maggie"
+        ],
+        "mods_role_ssim": [
+          "creator"
+        ],
+        "mods_subject_joined_l_ssim": [
+          "Brown University. Library. Innovation Prize"
+        ],
+        "mods_subject_joined_lcsh_ssim": [
+          "Games"
+        ],
+        "mods_subject_joined_ssim": [
+          "Games",
+          "Brown University. Library. Innovation Prize"
+        ],
+        "mods_subject_l_ssim": [
+          "Brown University. Library. Innovation Prize"
+        ],
+        "mods_subject_lcsh_ssim": [
+          "Games"
+        ],
+        "mods_subject_ssim": [
+          "Games",
+          "Brown University. Library. Innovation Prize"
+        ],
+        "mods_title_full_primary_tsi": "Collect yourshelf",
+        "mods_title_full_tsim": [
+          "Collect yourshelf"
+        ],
+        "mods_type_of_resource": [
+          "still image"
+        ],
+        "name": [
+          "Burgin, Leah",
+          "French, Tyler",
+          "Ledesma, Andrea",
+          "Zwart, Inge",
+          "Unverzagt Goddard, Maggie"
+        ],
+        "note": [
+          "This submission was a runner-up for the 2016 Brown University Library Innovation Prize"
+        ],
+        "object_created_dsi": "2017-10-16T16:52:36.730Z",
+        "object_last_modified_dsi": "2021-11-30T17:38:00.197Z",
+        "object_size_lsi": 72331966,
+        "object_type": "image",
+        "order": "2",
+        "pid": "bdr:744971",
+        "primary_title": "Collect yourshelf",
+        "primary_title_txt_en_split": "Collect yourshelf",
+        "rel_content_models_ssim": [
+          "masterImage",
+          "commonMetadata",
+          "jp2"
+        ],
+        "rel_has_pagination_ssim": [
+          "2"
+        ],
+        "rel_is_member_of_collection_ssim": [
+          "bdr:4hd866bq"
+        ],
+        "rel_is_part_of_ssim": [
+          "bdr:698084"
+        ],
+        "rel_object_type_ssi": "image",
+        "resource_type_ssi": "images",
+        "storage_location_ssi": "ocfl",
+        "timestamp": "2021-11-30T17:38:00.961Z",
+        "title_si": "Collect yourshelf",
+        "uri": "https://repository.library.brown.edu/studio/item/bdr:744971/"
+      },
+      {
+        "_display_brown_bsi": false,
+        "_display_private_bsi": false,
+        "_display_public_bsi": true,
+        "abstract": [
+          "A team of graduate students from Brown's Public Humanities program created \"Collect Yourshelf.\" Taking on the role of librarians, players in this game worked to build the best \"shelf\" of library materials they could find, having to pull from each of Brown's different libraries. A player's shelf can only hold one item from each library, so it is important to think carefully about what to put on your shelf. The whole game is driven by action cards, which give instruction for what to do on your turn. To create various levels of interaction in \"Collect Yourshelf,\" the team created regular, intensified, and extreme action cards."
+        ],
+        "collection_date": "2017-10-16T00:00:00Z",
+        "contributor_display": [
+          "Burgin, Leah (creator)",
+          "French, Tyler (creator)",
+          "Ledesma, Andrea (creator)",
+          "Zwart, Inge (creator)",
+          "Unverzagt Goddard, Maggie (creator)"
+        ],
+        "creator": [
+          "Burgin, Leah",
+          "French, Tyler",
+          "Ledesma, Andrea",
+          "Zwart, Inge",
+          "Unverzagt Goddard, Maggie"
+        ],
+        "creator_string": [
+          "Burgin, Leah",
+          "French, Tyler",
+          "Ledesma, Andrea",
+          "Zwart, Inge",
+          "Unverzagt Goddard, Maggie"
+        ],
+        "datastreams_ssi": "{\"irMetadata\": {\"mimeType\": \"application/octet-stream\", \"size\": 370, \"checksum\": \"391530e839e6881a6b413c56533734b5f0a9fcf0eb9bd0ec2875f3a71f5db0e8f13242e8341ebd80808d81b1cb23d32234bcf239b8a38f51767e000690e39d54\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2017-10-16T16:52:32.241000Z\"}, \"DC\": {\"mimeType\": \"application/octet-stream\", \"size\": 339, \"checksum\": \"4313f51bab95fea287eb2d3c0f51a58a0ff6ad47668f72fda04ef6d8e45ed82b146ab5e41111b1e31bac9b2fd3c5eadf975fef4fad11062c851158e09a1f8844\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2017-10-16T16:52:32.241000Z\"}, \"RELS-EXT\": {\"mimeType\": \"text/xml\", \"size\": 819, \"checksum\": \"aee027774500b1c7113859c2a1154412a59958eaefb9be8ff76209f956b5c44aea669594f00473748a1e3a7a7ecc0be67cef7494dc464430cdeb6588b2717264\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2021-11-30T17:37:59.411405Z\"}, \"thumbnail\": {\"mimeType\": \"application/octet-stream\", \"size\": 21332, \"checksum\": \"b3a0799ebeb56157f8c41a7f29ebc2da333a30326f7856c9416df38901910f8a6607abae62748ed820dcfa7e76ac9ec177f9880ff9c66c73306335906cc686fa\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2017-10-16T20:17:58.757000Z\"}, \"MASTER\": {\"mimeType\": \"image/tiff\", \"size\": 43072364, \"checksum\": \"ba6f2915826e4386f6005b18ed4ca742e56bd8cda4b48cc5413273b885bb0e22b792c5ff2457bdf2f22dd14d4df8a8d97fd5208dd98f3a02e459747ac9380d59\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2017-10-16T16:52:32.241000Z\"}, \"RELS-INT\": {\"mimeType\": \"text/xml\", \"size\": 692, \"checksum\": \"ceee1ad1888b551ef89cd9c64e8afa47af37b0b2c80999183a55ae1842d135e609e026cfd50c5e3c618f54f0dc0679939c5e3a7dce3907312581d1a5ff2787d4\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2017-10-16T20:17:58.914000Z\"}, \"JP2\": {\"mimeType\": \"image/jp2\", \"size\": 11357873, \"checksum\": \"d9061b47701e02397157d2c30887870d38ec618469e2ac30b08f27c5fe3dbf05e732c87456e6f871abea04d58ff40e1c56a40c84b6ee7d784601d21b8fce07b2\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2017-10-16T16:52:32.241000Z\"}, \"rightsMetadata\": {\"mimeType\": \"application/octet-stream\", \"size\": 814, \"checksum\": \"dd9e609a2a3e398918b9432e44da14cc20e0b59ef48648c4cf1cff62e3d9dd3645229a5308491d01aca414965d289b1e7954d0b938874e97a76db20a3eaa01f7\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2017-10-16T16:52:32.241000Z\"}}",
+        "dateCreated": "2016-05-04T00:00:00Z",
+        "dateCreated_month_ssim": [
+          "05"
+        ],
+        "dateCreated_month_text_ssim": [
+          "May"
+        ],
+        "dateCreated_year_ssim": [
+          "2016"
+        ],
+        "date_dsi": "2016-05-04T00:00:00Z",
+        "deposit_date": "2017-10-16T00:00:00Z",
+        "display_label": "page-image",
+        "fed_created_dsi": "2017-10-16T16:52:32.241Z",
+        "fed_last_modified_dsi": "2021-11-30T17:37:59.411Z",
+        "fed_object_size_lsi": 54454603,
+        "genre": [
+          "games"
+        ],
+        "genre_aat": [
+          "games"
+        ],
+        "iiif_resource_bsi": true,
+        "ir_collection_id": [
+          745
+        ],
+        "ir_collection_name": [
+          "Brown University Library Innovation Prize"
+        ],
+        "keyword": [
+          "Games",
+          "Brown University. Library. Innovation Prize"
+        ],
+        "mods_abstract_ssim": [
+          "A team of graduate students from Brown's Public Humanities program created \"Collect Yourshelf.\" Taking on the role of librarians, players in this game worked to build the best \"shelf\" of library materials they could find, having to pull from each of Brown's different libraries. A player's shelf can only hold one item from each library, so it is important to think carefully about what to put on your shelf. The whole game is driven by action cards, which give instruction for what to do on your turn. To create various levels of interaction in \"Collect Yourshelf,\" the team created regular, intensified, and extreme action cards."
+        ],
+        "mods_access_condition_logo_ssim": [
+          "https://licensebuttons.net/l/by/4.0/88x31.png/"
+        ],
+        "mods_access_condition_use_link_ssim": [
+          "https://creativecommons.org/licenses/by/4.0/"
+        ],
+        "mods_access_condition_use_text_tsim": [
+          "This work is licensed under a Creative Commons Attribution 4.0 International license"
+        ],
+        "mods_dateAll_ssim": [
+          "2016-05-04"
+        ],
+        "mods_dateAll_year_ssim": [
+          "2016"
+        ],
+        "mods_dateCreated_ssim": [
+          "2016-05-04"
+        ],
+        "mods_genre_aat_ssim": [
+          "games"
+        ],
+        "mods_id": "bdr698084",
+        "mods_language_code_ssim": [
+          "eng"
+        ],
+        "mods_language_ssim": [
+          "eng"
+        ],
+        "mods_name_nonplace_ssim": [
+          "Burgin, Leah",
+          "French, Tyler",
+          "Ledesma, Andrea",
+          "Zwart, Inge",
+          "Unverzagt Goddard, Maggie"
+        ],
+        "mods_physicalDescription_digitalOrigin_ssim": [
+          "born digital"
+        ],
+        "mods_physicalDescription_extent_ssim": [
+          "6 photographs"
+        ],
+        "mods_role_creator_ssim": [
+          "Burgin, Leah",
+          "French, Tyler",
+          "Ledesma, Andrea",
+          "Zwart, Inge",
+          "Unverzagt Goddard, Maggie"
+        ],
+        "mods_role_ssim": [
+          "creator"
+        ],
+        "mods_subject_joined_l_ssim": [
+          "Brown University. Library. Innovation Prize"
+        ],
+        "mods_subject_joined_lcsh_ssim": [
+          "Games"
+        ],
+        "mods_subject_joined_ssim": [
+          "Games",
+          "Brown University. Library. Innovation Prize"
+        ],
+        "mods_subject_l_ssim": [
+          "Brown University. Library. Innovation Prize"
+        ],
+        "mods_subject_lcsh_ssim": [
+          "Games"
+        ],
+        "mods_subject_ssim": [
+          "Games",
+          "Brown University. Library. Innovation Prize"
+        ],
+        "mods_title_full_primary_tsi": "Collect yourshelf",
+        "mods_title_full_tsim": [
+          "Collect yourshelf"
+        ],
+        "mods_type_of_resource": [
+          "still image"
+        ],
+        "name": [
+          "Burgin, Leah",
+          "French, Tyler",
+          "Ledesma, Andrea",
+          "Zwart, Inge",
+          "Unverzagt Goddard, Maggie"
+        ],
+        "note": [
+          "This submission was a runner-up for the 2016 Brown University Library Innovation Prize"
+        ],
+        "object_created_dsi": "2017-10-16T16:52:32.241Z",
+        "object_last_modified_dsi": "2021-11-30T17:37:59.411Z",
+        "object_size_lsi": 54454603,
+        "object_type": "image",
+        "order": "3",
+        "pid": "bdr:744970",
+        "primary_title": "Collect yourshelf",
+        "primary_title_txt_en_split": "Collect yourshelf",
+        "rel_content_models_ssim": [
+          "commonMetadata",
+          "masterImage",
+          "jp2"
+        ],
+        "rel_has_pagination_ssim": [
+          "3"
+        ],
+        "rel_is_member_of_collection_ssim": [
+          "bdr:4hd866bq"
+        ],
+        "rel_is_part_of_ssim": [
+          "bdr:698084"
+        ],
+        "rel_object_type_ssi": "image",
+        "resource_type_ssi": "images",
+        "storage_location_ssi": "ocfl",
+        "timestamp": "2021-11-30T17:38:00.133Z",
+        "title_si": "Collect yourshelf",
+        "uri": "https://repository.library.brown.edu/studio/item/bdr:744970/"
+      },
+      {
+        "_display_brown_bsi": false,
+        "_display_private_bsi": false,
+        "_display_public_bsi": true,
+        "abstract": [
+          "A team of graduate students from Brown's Public Humanities program created \"Collect Yourshelf.\" Taking on the role of librarians, players in this game worked to build the best \"shelf\" of library materials they could find, having to pull from each of Brown's different libraries. A player's shelf can only hold one item from each library, so it is important to think carefully about what to put on your shelf. The whole game is driven by action cards, which give instruction for what to do on your turn. To create various levels of interaction in \"Collect Yourshelf,\" the team created regular, intensified, and extreme action cards."
+        ],
+        "collection_date": "2017-10-16T00:00:00Z",
+        "contributor_display": [
+          "Burgin, Leah (creator)",
+          "French, Tyler (creator)",
+          "Ledesma, Andrea (creator)",
+          "Zwart, Inge (creator)",
+          "Unverzagt Goddard, Maggie (creator)"
+        ],
+        "creator": [
+          "Burgin, Leah",
+          "French, Tyler",
+          "Ledesma, Andrea",
+          "Zwart, Inge",
+          "Unverzagt Goddard, Maggie"
+        ],
+        "creator_string": [
+          "Burgin, Leah",
+          "French, Tyler",
+          "Ledesma, Andrea",
+          "Zwart, Inge",
+          "Unverzagt Goddard, Maggie"
+        ],
+        "datastreams_ssi": "{\"RELS-EXT\": {\"mimeType\": \"text/xml\", \"size\": 819, \"checksum\": \"177600234f2e571a9ef54fd3ff3f598a3d4a3aee679357561e4a2599c4139f713d89d73581a4c22828376c6b01840dcce7f6f6662a64250cac997a806c148541\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2021-11-30T17:38:01.696576Z\"}, \"JP2\": {\"mimeType\": \"image/jp2\", \"size\": 16954667, \"checksum\": \"1e46e2bc36e7e771c02ef299b6671c89c2de92fc15c381a95983b6546d9388db5f6883fbfe21d7e7c559223985dd3ea8ed0c6f9874d336cb3ad27359738ed19c\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2017-10-16T16:52:45.686000Z\"}, \"irMetadata\": {\"mimeType\": \"application/octet-stream\", \"size\": 370, \"checksum\": \"391530e839e6881a6b413c56533734b5f0a9fcf0eb9bd0ec2875f3a71f5db0e8f13242e8341ebd80808d81b1cb23d32234bcf239b8a38f51767e000690e39d54\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2017-10-16T16:52:45.686000Z\"}, \"RELS-INT\": {\"mimeType\": \"text/xml\", \"size\": 692, \"checksum\": \"ae7e109d3f130238cf747903e0905a59a549977c540a822686e9bbd6139534d780a4419f470a541b3320e272ea3c383499c563b0862ec5a144ab87972d5a570d\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2017-10-16T20:18:01.712000Z\"}, \"DC\": {\"mimeType\": \"application/octet-stream\", \"size\": 339, \"checksum\": \"c5979a2c06fb88a30408ae3bac8eb041452dc398bc71a2b8a7425282a048241edfce5d86bdf092c1904edae6c4a0659e82a027c375580b359c0854110500df0c\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2017-10-16T16:52:45.686000Z\"}, \"rightsMetadata\": {\"mimeType\": \"application/octet-stream\", \"size\": 814, \"checksum\": \"dd9e609a2a3e398918b9432e44da14cc20e0b59ef48648c4cf1cff62e3d9dd3645229a5308491d01aca414965d289b1e7954d0b938874e97a76db20a3eaa01f7\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2017-10-16T16:52:45.686000Z\"}, \"MASTER\": {\"mimeType\": \"image/tiff\", \"size\": 56164212, \"checksum\": \"eaf17df4e85a77c644f7072f2ff8e7e1b3ec8e2f0ccd1dc143a2bab2f60f33545ddcbe2f3573d76cbecaedab275ae47b990f4453d10265bab0750768219e4188\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2017-10-16T16:52:45.686000Z\"}, \"thumbnail\": {\"mimeType\": \"application/octet-stream\", \"size\": 20994, \"checksum\": \"fe12a1c9cabea37a7541cb8be5ac395ae02ac2e4a6fa87f4df07c1a17b07299c3a7661e6945768a60572969ef48ab8633542d18b0df57ac292744262564d8cab\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2017-10-16T20:18:01.613000Z\"}}",
+        "dateCreated": "2016-05-04T00:00:00Z",
+        "dateCreated_month_ssim": [
+          "05"
+        ],
+        "dateCreated_month_text_ssim": [
+          "May"
+        ],
+        "dateCreated_year_ssim": [
+          "2016"
+        ],
+        "date_dsi": "2016-05-04T00:00:00Z",
+        "deposit_date": "2017-10-16T00:00:00Z",
+        "display_label": "page-image",
+        "fed_created_dsi": "2017-10-16T16:52:45.686Z",
+        "fed_last_modified_dsi": "2021-11-30T17:38:01.696Z",
+        "fed_object_size_lsi": 73142907,
+        "genre": [
+          "games"
+        ],
+        "genre_aat": [
+          "games"
+        ],
+        "iiif_resource_bsi": true,
+        "ir_collection_id": [
+          745
+        ],
+        "ir_collection_name": [
+          "Brown University Library Innovation Prize"
+        ],
+        "keyword": [
+          "Games",
+          "Brown University. Library. Innovation Prize"
+        ],
+        "mods_abstract_ssim": [
+          "A team of graduate students from Brown's Public Humanities program created \"Collect Yourshelf.\" Taking on the role of librarians, players in this game worked to build the best \"shelf\" of library materials they could find, having to pull from each of Brown's different libraries. A player's shelf can only hold one item from each library, so it is important to think carefully about what to put on your shelf. The whole game is driven by action cards, which give instruction for what to do on your turn. To create various levels of interaction in \"Collect Yourshelf,\" the team created regular, intensified, and extreme action cards."
+        ],
+        "mods_access_condition_logo_ssim": [
+          "https://licensebuttons.net/l/by/4.0/88x31.png/"
+        ],
+        "mods_access_condition_use_link_ssim": [
+          "https://creativecommons.org/licenses/by/4.0/"
+        ],
+        "mods_access_condition_use_text_tsim": [
+          "This work is licensed under a Creative Commons Attribution 4.0 International license"
+        ],
+        "mods_dateAll_ssim": [
+          "2016-05-04"
+        ],
+        "mods_dateAll_year_ssim": [
+          "2016"
+        ],
+        "mods_dateCreated_ssim": [
+          "2016-05-04"
+        ],
+        "mods_genre_aat_ssim": [
+          "games"
+        ],
+        "mods_id": "bdr698084",
+        "mods_language_code_ssim": [
+          "eng"
+        ],
+        "mods_language_ssim": [
+          "eng"
+        ],
+        "mods_name_nonplace_ssim": [
+          "Burgin, Leah",
+          "French, Tyler",
+          "Ledesma, Andrea",
+          "Zwart, Inge",
+          "Unverzagt Goddard, Maggie"
+        ],
+        "mods_physicalDescription_digitalOrigin_ssim": [
+          "born digital"
+        ],
+        "mods_physicalDescription_extent_ssim": [
+          "6 photographs"
+        ],
+        "mods_role_creator_ssim": [
+          "Burgin, Leah",
+          "French, Tyler",
+          "Ledesma, Andrea",
+          "Zwart, Inge",
+          "Unverzagt Goddard, Maggie"
+        ],
+        "mods_role_ssim": [
+          "creator"
+        ],
+        "mods_subject_joined_l_ssim": [
+          "Brown University. Library. Innovation Prize"
+        ],
+        "mods_subject_joined_lcsh_ssim": [
+          "Games"
+        ],
+        "mods_subject_joined_ssim": [
+          "Games",
+          "Brown University. Library. Innovation Prize"
+        ],
+        "mods_subject_l_ssim": [
+          "Brown University. Library. Innovation Prize"
+        ],
+        "mods_subject_lcsh_ssim": [
+          "Games"
+        ],
+        "mods_subject_ssim": [
+          "Games",
+          "Brown University. Library. Innovation Prize"
+        ],
+        "mods_title_full_primary_tsi": "Collect yourshelf",
+        "mods_title_full_tsim": [
+          "Collect yourshelf"
+        ],
+        "mods_type_of_resource": [
+          "still image"
+        ],
+        "name": [
+          "Burgin, Leah",
+          "French, Tyler",
+          "Ledesma, Andrea",
+          "Zwart, Inge",
+          "Unverzagt Goddard, Maggie"
+        ],
+        "note": [
+          "This submission was a runner-up for the 2016 Brown University Library Innovation Prize"
+        ],
+        "object_created_dsi": "2017-10-16T16:52:45.686Z",
+        "object_last_modified_dsi": "2021-11-30T17:38:01.696Z",
+        "object_size_lsi": 73142907,
+        "object_type": "image",
+        "order": "4",
+        "pid": "bdr:744973",
+        "primary_title": "Collect yourshelf",
+        "primary_title_txt_en_split": "Collect yourshelf",
+        "rel_content_models_ssim": [
+          "commonMetadata",
+          "masterImage",
+          "jp2"
+        ],
+        "rel_has_pagination_ssim": [
+          "4"
+        ],
+        "rel_is_member_of_collection_ssim": [
+          "bdr:4hd866bq"
+        ],
+        "rel_is_part_of_ssim": [
+          "bdr:698084"
+        ],
+        "rel_object_type_ssi": "image",
+        "resource_type_ssi": "images",
+        "storage_location_ssi": "ocfl",
+        "timestamp": "2021-11-30T17:38:02.388Z",
+        "title_si": "Collect yourshelf",
+        "uri": "https://repository.library.brown.edu/studio/item/bdr:744973/"
+      },
+      {
+        "_display_brown_bsi": false,
+        "_display_private_bsi": false,
+        "_display_public_bsi": true,
+        "abstract": [
+          "A team of graduate students from Brown's Public Humanities program created \"Collect Yourshelf.\" Taking on the role of librarians, players in this game worked to build the best \"shelf\" of library materials they could find, having to pull from each of Brown's different libraries. A player's shelf can only hold one item from each library, so it is important to think carefully about what to put on your shelf. The whole game is driven by action cards, which give instruction for what to do on your turn. To create various levels of interaction in \"Collect Yourshelf,\" the team created regular, intensified, and extreme action cards."
+        ],
+        "collection_date": "2017-10-16T00:00:00Z",
+        "contributor_display": [
+          "Burgin, Leah (creator)",
+          "French, Tyler (creator)",
+          "Ledesma, Andrea (creator)",
+          "Zwart, Inge (creator)",
+          "Unverzagt Goddard, Maggie (creator)"
+        ],
+        "creator": [
+          "Burgin, Leah",
+          "French, Tyler",
+          "Ledesma, Andrea",
+          "Zwart, Inge",
+          "Unverzagt Goddard, Maggie"
+        ],
+        "creator_string": [
+          "Burgin, Leah",
+          "French, Tyler",
+          "Ledesma, Andrea",
+          "Zwart, Inge",
+          "Unverzagt Goddard, Maggie"
+        ],
+        "datastreams_ssi": "{\"thumbnail\": {\"mimeType\": \"application/octet-stream\", \"size\": 23970, \"checksum\": \"01e60fb872897bc70f107eac2f45ce73fce85950a55990912dd9d14bcd327994deb2cfebfa8be5138cb1d2a7d3c5f69c9599acaaf74cacd35bfd5e67c43fd4dd\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2017-10-16T20:17:57.374000Z\"}, \"MASTER\": {\"mimeType\": \"image/tiff\", \"size\": 51219492, \"checksum\": \"069c428c3956ac1b00c0adfef73faab97f43c11523b6239ee0d6f74111da115d81c97aff991c7f3c3288fb6b21b4882d04ee20092ddf1ff23f60845b8e2535b8\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2017-10-16T16:52:41.424000Z\"}, \"RELS-INT\": {\"mimeType\": \"text/xml\", \"size\": 692, \"checksum\": \"08a25270457872d6e66d354390088c5fe09e377953a042bd1049528799c8fa0cdbe17154403178ae592ae4b1e3cc2600a710710d745306ca5d5bf391d2da9dae\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2017-10-16T20:17:57.475000Z\"}, \"RELS-EXT\": {\"mimeType\": \"text/xml\", \"size\": 819, \"checksum\": \"1678a82737a8e2e17ce9799b80f1946fdd2471ec28397d9befde953bc7e1f2f44f1fd1ffb13189fbf86a9eb2c0ccf51ec38f0fa7ccd6c92894de043324d4af08\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2021-11-30T17:38:00.960441Z\"}, \"irMetadata\": {\"mimeType\": \"application/octet-stream\", \"size\": 370, \"checksum\": \"391530e839e6881a6b413c56533734b5f0a9fcf0eb9bd0ec2875f3a71f5db0e8f13242e8341ebd80808d81b1cb23d32234bcf239b8a38f51767e000690e39d54\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2017-10-16T16:52:41.424000Z\"}, \"DC\": {\"mimeType\": \"application/octet-stream\", \"size\": 339, \"checksum\": \"3984d5bd2df6c6919380dde58d96fa88aa8d8d3d8727feb45c43f92b9bd48311d7377755bdb63b89b01515484057eb0903e850c419cf6823623fd8dc99ac2133\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2017-10-16T16:52:41.424000Z\"}, \"JP2\": {\"mimeType\": \"image/jp2\", \"size\": 13796841, \"checksum\": \"8d421a0ad61c55360d5ffe6afa5ecef1bcbe7302f7e662bfdbd8fbcb8b1530095b81c0ad2c72a82f6d539fe76414c7229c8ce542a79cbfaba7a54317bbb3731f\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2017-10-16T16:52:41.424000Z\"}, \"rightsMetadata\": {\"mimeType\": \"application/octet-stream\", \"size\": 814, \"checksum\": \"dd9e609a2a3e398918b9432e44da14cc20e0b59ef48648c4cf1cff62e3d9dd3645229a5308491d01aca414965d289b1e7954d0b938874e97a76db20a3eaa01f7\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2017-10-16T16:52:41.424000Z\"}}",
+        "dateCreated": "2016-05-04T00:00:00Z",
+        "dateCreated_month_ssim": [
+          "05"
+        ],
+        "dateCreated_month_text_ssim": [
+          "May"
+        ],
+        "dateCreated_year_ssim": [
+          "2016"
+        ],
+        "date_dsi": "2016-05-04T00:00:00Z",
+        "deposit_date": "2017-10-16T00:00:00Z",
+        "display_label": "page-image",
+        "fed_created_dsi": "2017-10-16T16:52:41.424Z",
+        "fed_last_modified_dsi": "2021-11-30T17:38:00.960Z",
+        "fed_object_size_lsi": 65043337,
+        "genre": [
+          "games"
+        ],
+        "genre_aat": [
+          "games"
+        ],
+        "iiif_resource_bsi": true,
+        "ir_collection_id": [
+          745
+        ],
+        "ir_collection_name": [
+          "Brown University Library Innovation Prize"
+        ],
+        "keyword": [
+          "Games",
+          "Brown University. Library. Innovation Prize"
+        ],
+        "mods_abstract_ssim": [
+          "A team of graduate students from Brown's Public Humanities program created \"Collect Yourshelf.\" Taking on the role of librarians, players in this game worked to build the best \"shelf\" of library materials they could find, having to pull from each of Brown's different libraries. A player's shelf can only hold one item from each library, so it is important to think carefully about what to put on your shelf. The whole game is driven by action cards, which give instruction for what to do on your turn. To create various levels of interaction in \"Collect Yourshelf,\" the team created regular, intensified, and extreme action cards."
+        ],
+        "mods_access_condition_logo_ssim": [
+          "https://licensebuttons.net/l/by/4.0/88x31.png/"
+        ],
+        "mods_access_condition_use_link_ssim": [
+          "https://creativecommons.org/licenses/by/4.0/"
+        ],
+        "mods_access_condition_use_text_tsim": [
+          "This work is licensed under a Creative Commons Attribution 4.0 International license"
+        ],
+        "mods_dateAll_ssim": [
+          "2016-05-04"
+        ],
+        "mods_dateAll_year_ssim": [
+          "2016"
+        ],
+        "mods_dateCreated_ssim": [
+          "2016-05-04"
+        ],
+        "mods_genre_aat_ssim": [
+          "games"
+        ],
+        "mods_id": "bdr698084",
+        "mods_language_code_ssim": [
+          "eng"
+        ],
+        "mods_language_ssim": [
+          "eng"
+        ],
+        "mods_name_nonplace_ssim": [
+          "Burgin, Leah",
+          "French, Tyler",
+          "Ledesma, Andrea",
+          "Zwart, Inge",
+          "Unverzagt Goddard, Maggie"
+        ],
+        "mods_physicalDescription_digitalOrigin_ssim": [
+          "born digital"
+        ],
+        "mods_physicalDescription_extent_ssim": [
+          "6 photographs"
+        ],
+        "mods_role_creator_ssim": [
+          "Burgin, Leah",
+          "French, Tyler",
+          "Ledesma, Andrea",
+          "Zwart, Inge",
+          "Unverzagt Goddard, Maggie"
+        ],
+        "mods_role_ssim": [
+          "creator"
+        ],
+        "mods_subject_joined_l_ssim": [
+          "Brown University. Library. Innovation Prize"
+        ],
+        "mods_subject_joined_lcsh_ssim": [
+          "Games"
+        ],
+        "mods_subject_joined_ssim": [
+          "Games",
+          "Brown University. Library. Innovation Prize"
+        ],
+        "mods_subject_l_ssim": [
+          "Brown University. Library. Innovation Prize"
+        ],
+        "mods_subject_lcsh_ssim": [
+          "Games"
+        ],
+        "mods_subject_ssim": [
+          "Games",
+          "Brown University. Library. Innovation Prize"
+        ],
+        "mods_title_full_primary_tsi": "Collect yourshelf",
+        "mods_title_full_tsim": [
+          "Collect yourshelf"
+        ],
+        "mods_type_of_resource": [
+          "still image"
+        ],
+        "name": [
+          "Burgin, Leah",
+          "French, Tyler",
+          "Ledesma, Andrea",
+          "Zwart, Inge",
+          "Unverzagt Goddard, Maggie"
+        ],
+        "note": [
+          "This submission was a runner-up for the 2016 Brown University Library Innovation Prize"
+        ],
+        "object_created_dsi": "2017-10-16T16:52:41.424Z",
+        "object_last_modified_dsi": "2021-11-30T17:38:00.960Z",
+        "object_size_lsi": 65043337,
+        "object_type": "image",
+        "order": "5",
+        "pid": "bdr:744972",
+        "primary_title": "Collect yourshelf",
+        "primary_title_txt_en_split": "Collect yourshelf",
+        "rel_content_models_ssim": [
+          "commonMetadata",
+          "jp2",
+          "masterImage"
+        ],
+        "rel_has_pagination_ssim": [
+          "5"
+        ],
+        "rel_is_member_of_collection_ssim": [
+          "bdr:4hd866bq"
+        ],
+        "rel_is_part_of_ssim": [
+          "bdr:698084"
+        ],
+        "rel_object_type_ssi": "image",
+        "resource_type_ssi": "images",
+        "storage_location_ssi": "ocfl",
+        "timestamp": "2021-11-30T17:38:01.709Z",
+        "title_si": "Collect yourshelf",
+        "uri": "https://repository.library.brown.edu/studio/item/bdr:744972/"
+      },
+      {
+        "_display_brown_bsi": false,
+        "_display_private_bsi": false,
+        "_display_public_bsi": true,
+        "abstract": [
+          "A team of graduate students from Brown's Public Humanities program created \"Collect Yourshelf.\" Taking on the role of librarians, players in this game worked to build the best \"shelf\" of library materials they could find, having to pull from each of Brown's different libraries. A player's shelf can only hold one item from each library, so it is important to think carefully about what to put on your shelf. The whole game is driven by action cards, which give instruction for what to do on your turn. To create various levels of interaction in \"Collect Yourshelf,\" the team created regular, intensified, and extreme action cards."
+        ],
+        "collection_date": "2017-10-16T00:00:00Z",
+        "contributor_display": [
+          "Burgin, Leah (creator)",
+          "French, Tyler (creator)",
+          "Ledesma, Andrea (creator)",
+          "Zwart, Inge (creator)",
+          "Unverzagt Goddard, Maggie (creator)"
+        ],
+        "creator": [
+          "Burgin, Leah",
+          "French, Tyler",
+          "Ledesma, Andrea",
+          "Zwart, Inge",
+          "Unverzagt Goddard, Maggie"
+        ],
+        "creator_string": [
+          "Burgin, Leah",
+          "French, Tyler",
+          "Ledesma, Andrea",
+          "Zwart, Inge",
+          "Unverzagt Goddard, Maggie"
+        ],
+        "datastreams_ssi": "{\"JP2\": {\"mimeType\": \"image/jp2\", \"size\": 11594428, \"checksum\": \"278df36709c941f0eceaf8c69a00c22c41471b70562b33a0c2163b5f9be6767bb5ed7ac503ca7bbd04923847815c0841aa3086d94b716c90f7906b7d1d17555f\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2017-10-16T16:52:51.853000Z\"}, \"irMetadata\": {\"mimeType\": \"application/octet-stream\", \"size\": 370, \"checksum\": \"391530e839e6881a6b413c56533734b5f0a9fcf0eb9bd0ec2875f3a71f5db0e8f13242e8341ebd80808d81b1cb23d32234bcf239b8a38f51767e000690e39d54\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2017-10-16T16:52:51.853000Z\"}, \"RELS-EXT\": {\"mimeType\": \"text/xml\", \"size\": 819, \"checksum\": \"b2248bf83d529a6c03f301257b39bb1e714858f6efc72e360498bea86925aa8675efc6369f8bd110f6a702d9eafbabd9e6114fc5cf62b67899904e017d2825ae\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2021-11-30T17:38:02.461464Z\"}, \"DC\": {\"mimeType\": \"application/octet-stream\", \"size\": 339, \"checksum\": \"b3ccf64757993248c02b57aa1a1a086ad2b186f9316b1c8a7ad1dd6201c1ddd366fb51c733e8ea641554fe4187d630ed2fcc90faf8c1137f1d449c5e5ff04880\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2017-10-16T16:52:51.853000Z\"}, \"RELS-INT\": {\"mimeType\": \"text/xml\", \"size\": 692, \"checksum\": \"b64c2368f94d6418d414aa6bf8b4d85edc821ae82ac560f2dbdb864a3ae770ccf5674bb98da41530de3c8060e0cd3103a39859dcb290e7de1b0280d9d2275b6a\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2017-10-16T20:17:54.704000Z\"}, \"thumbnail\": {\"mimeType\": \"application/octet-stream\", \"size\": 20232, \"checksum\": \"cc9bc0b7440054e51ab5367f3a2461b51a78a77662857d3475e199a0d604a88089c2ed2be1ceccf65b0b6eee6f002c9bd6ebedbd5275a6a8910decc17923427a\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2017-10-16T20:17:54.366000Z\"}, \"rightsMetadata\": {\"mimeType\": \"application/octet-stream\", \"size\": 814, \"checksum\": \"dd9e609a2a3e398918b9432e44da14cc20e0b59ef48648c4cf1cff62e3d9dd3645229a5308491d01aca414965d289b1e7954d0b938874e97a76db20a3eaa01f7\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2017-10-16T16:52:51.853000Z\"}, \"MASTER\": {\"mimeType\": \"image/tiff\", \"size\": 49363572, \"checksum\": \"f109979e499748339a6f4c56bc2b11361cf90b5afbc806d8721e3d72d8961a894cd07acee13cff27762850ccea8efe874c3485864e687e999a7d66d403bbaee9\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2017-10-16T16:52:51.853000Z\"}}",
+        "dateCreated": "2016-05-04T00:00:00Z",
+        "dateCreated_month_ssim": [
+          "05"
+        ],
+        "dateCreated_month_text_ssim": [
+          "May"
+        ],
+        "dateCreated_year_ssim": [
+          "2016"
+        ],
+        "date_dsi": "2016-05-04T00:00:00Z",
+        "deposit_date": "2017-10-16T00:00:00Z",
+        "display_label": "page-image",
+        "fed_created_dsi": "2017-10-16T16:52:51.853Z",
+        "fed_last_modified_dsi": "2021-11-30T17:38:02.461Z",
+        "fed_object_size_lsi": 60981266,
+        "genre": [
+          "games"
+        ],
+        "genre_aat": [
+          "games"
+        ],
+        "iiif_resource_bsi": true,
+        "ir_collection_id": [
+          745
+        ],
+        "ir_collection_name": [
+          "Brown University Library Innovation Prize"
+        ],
+        "keyword": [
+          "Games",
+          "Brown University. Library. Innovation Prize"
+        ],
+        "mods_abstract_ssim": [
+          "A team of graduate students from Brown's Public Humanities program created \"Collect Yourshelf.\" Taking on the role of librarians, players in this game worked to build the best \"shelf\" of library materials they could find, having to pull from each of Brown's different libraries. A player's shelf can only hold one item from each library, so it is important to think carefully about what to put on your shelf. The whole game is driven by action cards, which give instruction for what to do on your turn. To create various levels of interaction in \"Collect Yourshelf,\" the team created regular, intensified, and extreme action cards."
+        ],
+        "mods_access_condition_logo_ssim": [
+          "https://licensebuttons.net/l/by/4.0/88x31.png/"
+        ],
+        "mods_access_condition_use_link_ssim": [
+          "https://creativecommons.org/licenses/by/4.0/"
+        ],
+        "mods_access_condition_use_text_tsim": [
+          "This work is licensed under a Creative Commons Attribution 4.0 International license"
+        ],
+        "mods_dateAll_ssim": [
+          "2016-05-04"
+        ],
+        "mods_dateAll_year_ssim": [
+          "2016"
+        ],
+        "mods_dateCreated_ssim": [
+          "2016-05-04"
+        ],
+        "mods_genre_aat_ssim": [
+          "games"
+        ],
+        "mods_id": "bdr698084",
+        "mods_language_code_ssim": [
+          "eng"
+        ],
+        "mods_language_ssim": [
+          "eng"
+        ],
+        "mods_name_nonplace_ssim": [
+          "Burgin, Leah",
+          "French, Tyler",
+          "Ledesma, Andrea",
+          "Zwart, Inge",
+          "Unverzagt Goddard, Maggie"
+        ],
+        "mods_physicalDescription_digitalOrigin_ssim": [
+          "born digital"
+        ],
+        "mods_physicalDescription_extent_ssim": [
+          "6 photographs"
+        ],
+        "mods_role_creator_ssim": [
+          "Burgin, Leah",
+          "French, Tyler",
+          "Ledesma, Andrea",
+          "Zwart, Inge",
+          "Unverzagt Goddard, Maggie"
+        ],
+        "mods_role_ssim": [
+          "creator"
+        ],
+        "mods_subject_joined_l_ssim": [
+          "Brown University. Library. Innovation Prize"
+        ],
+        "mods_subject_joined_lcsh_ssim": [
+          "Games"
+        ],
+        "mods_subject_joined_ssim": [
+          "Games",
+          "Brown University. Library. Innovation Prize"
+        ],
+        "mods_subject_l_ssim": [
+          "Brown University. Library. Innovation Prize"
+        ],
+        "mods_subject_lcsh_ssim": [
+          "Games"
+        ],
+        "mods_subject_ssim": [
+          "Games",
+          "Brown University. Library. Innovation Prize"
+        ],
+        "mods_title_full_primary_tsi": "Collect yourshelf",
+        "mods_title_full_tsim": [
+          "Collect yourshelf"
+        ],
+        "mods_type_of_resource": [
+          "still image"
+        ],
+        "name": [
+          "Burgin, Leah",
+          "French, Tyler",
+          "Ledesma, Andrea",
+          "Zwart, Inge",
+          "Unverzagt Goddard, Maggie"
+        ],
+        "note": [
+          "This submission was a runner-up for the 2016 Brown University Library Innovation Prize"
+        ],
+        "object_created_dsi": "2017-10-16T16:52:51.853Z",
+        "object_last_modified_dsi": "2021-11-30T17:38:02.461Z",
+        "object_size_lsi": 60981266,
+        "object_type": "image",
+        "order": "6",
+        "pid": "bdr:744974",
+        "primary_title": "Collect yourshelf",
+        "primary_title_txt_en_split": "Collect yourshelf",
+        "rel_content_models_ssim": [
+          "commonMetadata",
+          "jp2",
+          "masterImage"
+        ],
+        "rel_has_pagination_ssim": [
+          "6"
+        ],
+        "rel_is_member_of_collection_ssim": [
+          "bdr:4hd866bq"
+        ],
+        "rel_is_part_of_ssim": [
+          "bdr:698084"
+        ],
+        "rel_object_type_ssi": "image",
+        "resource_type_ssi": "images",
+        "storage_location_ssi": "ocfl",
+        "timestamp": "2021-11-30T17:38:03.270Z",
+        "title_si": "Collect yourshelf",
+        "uri": "https://repository.library.brown.edu/studio/item/bdr:744974/"
+      }
+    ],
+    "hasTranscript": [],
+    "hasTranslation": [],
+    "isDerivationOf": [],
+    "isMemberOf": [],
+    "isMemberOfCollection": [
+      {
+        "ancestors": [],
+        "child_folders": [],
+        "db_id": 745,
+        "description": "Each year the Innovation Prize has a new theme. This collection houses digital works that were awarded Brown University Library Innovation Prizes.",
+        "id": "bdr:4hd866bq",
+        "json_uri": "https://repository.library.brown.edu/api/collections/bdr:4hd866bq/",
+        "name": "Brown University Library Innovation Prize",
+        "parent_folders": [],
+        "pid": "bdr:4hd866bq",
+        "tags": [],
+        "thumbnail_url": "https://repository.library.brown.edu/storage/bdr:4hd866bq/thumbnail/",
+        "uri": "https://repository.library.brown.edu/studio/collections/bdr:4hd866bq/"
+      }
+    ],
+    "isPartOf": [],
+    "isTranscriptOf": [],
+    "isTranslationOf": [],
+    "isVersionOf": []
+  },
+  "resource_type_ssi": "images",
+  "storage_location_ssi": "ocfl",
+  "thumbnail": "https://repository.library.brown.edu/viewers/image/thumbnail/bdr:698084/",
+  "timestamp": "2021-11-30T02:40:26.408Z",
+  "title_si": "Collect yourshelf",
+  "uri": "https://repository.library.brown.edu/studio/item/bdr:698084/",
+  "views_dict": {
+    "Book View": "https://repository.library.brown.edu/viewers/readers/set/bdr:698084/",
+    "Mirador Viewer": "https://repository.library.brown.edu/viewers/mirador/bdr:698084/",
+    "Portfolio View": "https://repository.library.brown.edu/viewers/readers/portfolio/bdr:698084/",
+    "Universal Viewer": "https://repository.library.brown.edu/viewers/universal/bdr:698084/",
+    "iiif_manifest": "https://repository.library.brown.edu/iiif/presentation/bdr:698084/manifest.json"
+  }
+}

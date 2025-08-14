@@ -1,0 +1,513 @@
+{
+  "_display_brown_bsi": false,
+  "_display_private_bsi": false,
+  "_display_public_bsi": true,
+  "api_links": {
+    "collections": {
+      "John Carter Brown Library": "https://repository.library.brown.edu/api/collections/bdr:10855/"
+    },
+    "keywords": {
+      "1548-1820": "https://repository.library.brown.edu/api/search/?q='1548-1820'",
+      "History": "https://repository.library.brown.edu/api/search/?q='History'",
+      "Imprint 1725.": "https://repository.library.brown.edu/api/search/?q='Imprint%201725.'",
+      "Louis I, 1724": "https://repository.library.brown.edu/api/search/?q='Louis%20I,%201724'"
+    }
+  },
+  "brief": {
+    "contributors": [
+      "Fernández de Castro y Bocangel, Jerónimo.",
+      "Peralta Barnuevo, Pedro de, 1663-1743",
+      "Monforte y Vera, Jerónimo."
+    ],
+    "date issued": [
+      "año de 1725"
+    ],
+    "extent": [
+      "[144] p. ; 21 cm. (4to)"
+    ],
+    "full_title": [
+      "Elisio peruano: Solemnidades heroicas, y festivas demonstraciones de jubilos, que se han logrado en la muy noble, y muy leal ciudad de los reyes Lima, cabeza de la America austral, y corte del Perù, en la aclamacion del excelso nombre del muy alto, muy poderoso, siempre augusto, Catholico Monarcha de las Españas, y emperador de la America don Luis Primero N.S. (que Dios guarde.)"
+    ],
+    "keywords": [
+      "History",
+      "Louis I, 1724",
+      "1548-1820",
+      "Imprint 1725."
+    ],
+    "notes": [
+      "Inspiradas, y dirigidas por el excelentissimo señor marquès de Castel-Fuerte, cavallero del Orden de Santiago, comendador de Montizon, y Chiclana, theniente coronel del regimiento de guardias de Españoles, del consejo de S.M. virrey, lugarteniente, governador, y capitan general de el Perù, Tierrafirme, y Chile &c. y las resume, don Geronimo Fernandez de Castro, y Bocangel, del consejo de Su Magestad, su secretario, Doct. en ambos derechos, y cavallerizo mayor de S.E.",
+      "The authors of the large poems and dialogues beginning on p. [113] are identified on p. [101]",
+      "\"Loa, para la comedia con que celebró la familia del excmo. Sor. marques de Castel-Fuerte virrey de estos reynos la assumpcion â la corona de España del rey Nro. S.D. Luis I. que Dios guarde, en las fiestes reales, que hicieron en esta ciudad à tan glorioso assumpto\", p. [113-122], has separate caption title, and is written by Pedro Barnuevo de Peralta.",
+      "\"Saynete intermedio para la comedia que se representó en palacio en la feliz aclamacion del rey N.S. intitulado El amor duende\", p. [123-134], has separate caption title and is written by Jerónimo Monforte y Vera.",
+      "\"Introduction al sarao de los planetas\", p. [135-142], has separate caption title and is written by Jerónimo Fernández de Castro y Bocangel.",
+      "Text primarily in Spanish with some marginal notes and other passages in Latin.",
+      "Signatures: pi1 (pi1 verso blank) A (-A4) B-O (O4 verso blank) ²A-H² (H2 blank)",
+      "Title page printed within ornamental woodcut border; head and tail pieces; initials."
+    ],
+    "subtitle": [
+      "Solemnidades heroicas, y festivas demonstraciones de jubilos, que se han logrado en la muy noble, y muy leal ciudad de los reyes Lima, cabeza de la America austral, y corte del Perù, en la aclamacion del excelso nombre del muy alto, muy poderoso, siempre augusto, Catholico Monarcha de las Españas, y emperador de la America don Luis Primero N.S. (que Dios guarde.)"
+    ],
+    "title": [
+      "Elisio peruano"
+    ]
+  },
+  "catalog_links": [],
+  "collection_date": "2015-09-21T00:00:00Z",
+  "contributor_display": [
+    "Fernández de Castro y Bocangel, Jerónimo.",
+    "Peralta Barnuevo, Pedro de, 1663-1743",
+    "Monforte y Vera, Jerónimo."
+  ],
+  "datastreams": {
+    "BW_PDF": {
+      "checksum": "522f0dc3907bff4a483eac6f60b5e95cd6e2e3e9ef9e7e44b9037f70b285c1fbda66a70ad4f029530bceabbebdb89e0536754eabc7d8e4b3c2c0fe7dcc676509",
+      "checksumType": "SHA-512",
+      "lastModified": "2015-09-21T19:26:29.117000Z",
+      "mimeType": "application/pdf",
+      "size": 13654882
+    },
+    "DC": {
+      "checksum": "60b72db24d753895b424572b096c9c746372ed3948905ec9bfe1842763f5c47e4093410b640b03cb81335d5ae16e1ce29bbad44114931860e0e321d83c360354",
+      "checksumType": "SHA-512",
+      "lastModified": "2015-09-21T19:26:29.117000Z",
+      "mimeType": "application/octet-stream",
+      "size": 339
+    },
+    "DJVU": {
+      "checksum": "1d9c4f8abd0e0c2977d1dcfeed370e24866fe489bd35532d5c5b97f31743c946b22f8c6b7c45c5a01935f9708a656632b0234d3d66697eaa397777b78305d2d2",
+      "checksumType": "SHA-512",
+      "lastModified": "2015-09-21T19:26:29.117000Z",
+      "mimeType": "image/vnd.djvu",
+      "size": 13358097
+    },
+    "DJVU_XML": {
+      "checksum": "ad2b94d30cc99b1163e0775939980e677412e9a2d8f8147eb62efc71a1413335680708c1d88136d3fc545a3ab6a1e4ec277f7160c34731e1477f4008aab89efa",
+      "checksumType": "SHA-512",
+      "lastModified": "2015-09-21T19:26:29.117000Z",
+      "mimeType": "text/xml",
+      "size": 1815958
+    },
+    "GZIP": {
+      "checksum": "cfb266ef8fd0475bb5c7234a67ca35c3c5f4d3f1ccee054358f95beb7704555cd8dcb7a2d5e15b0f00c7901ed80568c7e10f2b7bc51102721a8bfd740d9f42c9",
+      "checksumType": "SHA-512",
+      "lastModified": "2015-09-21T19:26:29.117000Z",
+      "mimeType": "application/octet-stream",
+      "size": 3556689
+    },
+    "IA_DC": {
+      "checksum": "a615e2a966ae4551c59f9a44992d6518277983870111685b908e08e9535b28cb3c600e77fe8ab4dc2801611c34497ab326646fa7f931eb3987ef4f5827f9e354",
+      "checksumType": "SHA-512",
+      "lastModified": "2015-09-21T19:26:29.117000Z",
+      "mimeType": "text/xml",
+      "size": 3127
+    },
+    "MARC_XML": {
+      "checksum": "621538fd8e4bb0fc3a7b91f1444a69f994328b5dfc09525d5f742cbf38718acaceac7a4d80764d22ef7a549cccd955dd6ffbf383297e4d2e5323ad2384e985af",
+      "checksumType": "SHA-512",
+      "lastModified": "2015-09-21T19:26:29.117000Z",
+      "mimeType": "text/xml",
+      "size": 8227
+    },
+    "METASOURCE_XML": {
+      "checksum": "860243266ec2981e8ff6e6bad455ac7926e0be8b210588e05cfe26a322cfaf0a4798e1fc7dc31cb048388803914f9f39e9dde4e11e852ab1687c042d6bea409f",
+      "checksumType": "SHA-512",
+      "lastModified": "2015-09-21T19:26:29.117000Z",
+      "mimeType": "text/xml",
+      "size": 377
+    },
+    "META_MRC": {
+      "checksum": "b69ffa55b5acaeb915de39f5f41952cf1033ecb8bb80e5765e41d6630847db8e791406510d346a6ac12779f8daa2c589c6015cf89d8bff8ae060e7af1c53a532",
+      "checksumType": "SHA-512",
+      "lastModified": "2015-09-21T19:26:29.117000Z",
+      "mimeType": "application/marc",
+      "size": 3768
+    },
+    "META_XML": {
+      "checksum": "01ad18260be3bad6b418bb146fa2939693cb5f1bae104b0942348cda4c5cc678a067b92c881fc967efabde3ed916a686f68447c154064f1bd8c1a962c9f46a28",
+      "checksumType": "SHA-512",
+      "lastModified": "2015-09-21T19:26:29.117000Z",
+      "mimeType": "text/xml",
+      "size": 4284
+    },
+    "MODS": {
+      "checksum": "c55b50c65a454dbe512a8838e1ea34732a77400c6d2cf3789b084cd88b53e857d1959f70a956f0480ae465fdf32a6b51517c136187564bf0d8b7479e53391c48",
+      "checksumType": "SHA-512",
+      "lastModified": "2015-09-21T19:26:29.117000Z",
+      "mimeType": "text/xml",
+      "size": 7575
+    },
+    "PDF": {
+      "checksum": "e558d2c1c895f7f59b21b82822677272da01b888df771e14927eeca4314f04d80672a90d175e53409feda32505f177e4866611a998907cb5845d733ec803f987",
+      "checksumType": "SHA-512",
+      "lastModified": "2015-09-21T19:26:29.117000Z",
+      "mimeType": "application/pdf",
+      "size": 18134138
+    },
+    "RELS-EXT": {
+      "checksum": "dc8a1ceb8206b1ad4fb8e55f11a66cee39d6673c15663912e7bca9ae504808e7cc648028665633e1f979ef3f0eeaf53fe9a133f94071af6d48611a5b9836585c",
+      "checksumType": "SHA-512",
+      "lastModified": "2021-11-26T20:41:00.346409Z",
+      "mimeType": "text/xml",
+      "size": 557
+    },
+    "RELS-INT": {
+      "checksum": "71fbaa95de24fad457090e94a76172442b6485f4408292f6ff4dcf47378298861e292a5ee63ce30b8b7a7cd02994fe1781af3d01c93d69a8e50f44003667b6f1",
+      "checksumType": "SHA-512",
+      "lastModified": "2015-09-21T19:26:29.117000Z",
+      "mimeType": "text/xml",
+      "size": 3273
+    },
+    "SCANDATA_XML": {
+      "checksum": "61482fd904eee97efb3ba92e606ef3cc8273c78dc1f834ffc03c80c82fee7f086a32be1e7ef60ca12b90cd6f0b0b04150b88c010cc0fd8766aabccebd6e522b7",
+      "checksumType": "SHA-512",
+      "lastModified": "2015-09-21T19:26:29.117000Z",
+      "mimeType": "text/xml",
+      "size": 173060
+    },
+    "XTAR": {
+      "checksum": "83a69558d2c622dd1f064349ae95e077d25c3c0d576f586635c5101c9be70b35c286ca430319737ff9309d00f16ae55b9ae7cb6eedb7ed292c3a19fbd86e2867",
+      "checksumType": "SHA-512",
+      "lastModified": "2015-09-21T19:26:29.117000Z",
+      "mimeType": "application/x-tar",
+      "size": 207452160
+    },
+    "ZIP": {
+      "checksum": "27bdbe041178c5c99221a016e8f36f14b18063de72827cfc76a4893761ed05bb030dd54233e6d8f74bc756515dc122fd51115eebae20f8156e17ed7707005fc9",
+      "checksumType": "SHA-512",
+      "lastModified": "2015-09-21T19:26:29.117000Z",
+      "mimeType": "application/zip",
+      "size": 145119977
+    },
+    "epub": {
+      "checksum": "5182e705438cb740ce96bbf93922f4f3a3684842e83a37e504f13e4f0f2dd7b5f121a6b6e54ee034ff2047c03b2bdfb84a6c43e0976e222fbaf287a0c6705dbc",
+      "checksumType": "SHA-512",
+      "lastModified": "2015-09-21T19:26:29.117000Z",
+      "mimeType": "application/epub+zip",
+      "size": 895228
+    },
+    "gif": {
+      "checksum": "6483e5e15a55a8f22ad4eaf8579360cf94df212148cd41f5662cbd7337a8a9aaec5859ae488c2f1772b98d4fa12b5c8cc5d72e09153153739e2d92731e440d53",
+      "checksumType": "SHA-512",
+      "lastModified": "2015-09-21T19:26:29.117000Z",
+      "mimeType": "image/gif",
+      "size": 297560
+    },
+    "irMetadata": {
+      "checksum": "e7465b3ead25b9b16680525d8f4f1bab6c2b95f1cb9935ee9d48e7ac3a89051b8a75871b3decf9c6e01619fa572d6a6ac64b112151b76e5186573c26a97dba71",
+      "checksumType": "SHA-512",
+      "lastModified": "2015-09-21T19:26:29.117000Z",
+      "mimeType": "application/octet-stream",
+      "size": 427
+    },
+    "rightsMetadata": {
+      "checksum": "55c2dbd1e0c425e84d10d2ceebc1baf373646a0e8c0a80d8de778c8042811bf09333aac9dd95312e12d08e85ec7f5e1aafb182498090ba42f5480c3e81780baf",
+      "checksumType": "SHA-512",
+      "lastModified": "2015-09-21T19:26:29.117000Z",
+      "mimeType": "application/octet-stream",
+      "size": 813
+    },
+    "thumbnail": {
+      "checksum": "9d60a6178a750083696a710798dc4f93d80487f24941e5709547e26cce81aba7de9e7f51cbba296186d3a9aadfa08cb309ec5df0a1e1a09545801a0daa247e35",
+      "checksumType": "SHA-512",
+      "lastModified": "2017-03-29T15:36:08.918000Z",
+      "mimeType": "application/octet-stream",
+      "size": 3033
+    },
+    "torrent": {
+      "checksum": "00102b6207b18f3cea415b64d210c14e3ee01814e5e9c6430cc4f52cb64edb0d3f48aee329b6a45b6733891eb4ea80d07e4895ca3b3d9f14de636cdceca3b56e",
+      "checksumType": "SHA-512",
+      "lastModified": "2015-09-21T19:26:29.117000Z",
+      "mimeType": "application/x-bittorrent",
+      "size": 11439
+    },
+    "txt": {
+      "checksum": "70eb59c63bf76cfa0829edcdb5c1c25e81eea03bd438847a6c7e85681673459355d58cea5230d577f29b6bb0c8ffb9dca78f9cda9d4ac4019824dc74d35ea433",
+      "checksumType": "SHA-512",
+      "lastModified": "2015-09-21T19:26:29.117000Z",
+      "mimeType": "text/plain",
+      "size": 203339
+    },
+    "xml": {
+      "checksum": "034dc358c6d0e7e9a79e54dabd1ebfaede8bcc07a442715256bb28eed5f589065ccc88548e39c0b2de081fb96c53c1c89c713ffa8135f343514943974fc6a153",
+      "checksumType": "SHA-512",
+      "lastModified": "2015-09-21T19:26:29.117000Z",
+      "mimeType": "text/xml",
+      "size": 5861
+    }
+  },
+  "dateIssued": "1725-01-01T00:00:00Z",
+  "dateIssued_month_ssim": [
+    "01"
+  ],
+  "dateIssued_month_text_ssim": [
+    "January"
+  ],
+  "dateIssued_year_ssim": [
+    "1725"
+  ],
+  "date_dsi": "1725-01-01T00:00:00Z",
+  "deposit_date": "2015-09-21T00:00:00Z",
+  "display_inline": "<iframe name=\"contentIframe\" src=\"https://repository.library.brown.edu/storage/bdr:573180/PDF/\" width=\"100%\" height=\"800\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+  "display_inline_src": "https://repository.library.brown.edu/storage/bdr:573180/PDF/",
+  "fed_created_dsi": "2015-09-21T19:26:29.117Z",
+  "fed_last_modified_dsi": "2021-11-26T20:41:00.346Z",
+  "fed_object_size_lsi": 404714188,
+  "identifier": [
+    "752141889",
+    "elisioperuanosol00fern"
+  ],
+  "ir_collection_id": [
+    549
+  ],
+  "ir_collection_name": [
+    "John Carter Brown Library"
+  ],
+  "json_uri": "https://repository.library.brown.edu/api/items/bdr:573180/",
+  "keyword": [
+    "History",
+    "Louis I, 1724",
+    "1548-1820",
+    "Imprint 1725."
+  ],
+  "links": {
+    "collections": {
+      "John Carter Brown Library": "https://repository.library.brown.edu/studio/collections/bdr:10855/"
+    },
+    "content_datastreams": {
+      "BW_PDF": "https://repository.library.brown.edu/storage/bdr:573180/BW_PDF/",
+      "DJVU": "https://repository.library.brown.edu/storage/bdr:573180/DJVU/",
+      "DJVU_XML": "https://repository.library.brown.edu/storage/bdr:573180/DJVU_XML/",
+      "GZIP": "https://repository.library.brown.edu/storage/bdr:573180/GZIP/",
+      "IA_DC": "https://repository.library.brown.edu/storage/bdr:573180/IA_DC/",
+      "MARC_XML": "https://repository.library.brown.edu/storage/bdr:573180/MARC_XML/",
+      "METASOURCE_XML": "https://repository.library.brown.edu/storage/bdr:573180/METASOURCE_XML/",
+      "META_MRC": "https://repository.library.brown.edu/storage/bdr:573180/META_MRC/",
+      "META_XML": "https://repository.library.brown.edu/storage/bdr:573180/META_XML/",
+      "PDF": "https://repository.library.brown.edu/storage/bdr:573180/PDF/",
+      "SCANDATA_XML": "https://repository.library.brown.edu/storage/bdr:573180/SCANDATA_XML/",
+      "XTAR": "https://repository.library.brown.edu/storage/bdr:573180/XTAR/",
+      "ZIP": "https://repository.library.brown.edu/storage/bdr:573180/ZIP/",
+      "epub": "https://repository.library.brown.edu/storage/bdr:573180/epub/",
+      "gif": "https://repository.library.brown.edu/storage/bdr:573180/gif/",
+      "torrent": "https://repository.library.brown.edu/storage/bdr:573180/torrent/",
+      "txt": "https://repository.library.brown.edu/storage/bdr:573180/txt/",
+      "xml": "https://repository.library.brown.edu/storage/bdr:573180/xml/"
+    },
+    "descriptive_datastreams": {
+      "MODS": "https://repository.library.brown.edu/storage/bdr:573180/MODS/"
+    },
+    "keywords": {
+      "1548-1820": "https://repository.library.brown.edu/studio/search/?q=\"1548-1820\"",
+      "History": "https://repository.library.brown.edu/studio/search/?q=\"History\"",
+      "Imprint 1725.": "https://repository.library.brown.edu/studio/search/?q=\"Imprint 1725.\"",
+      "Louis I, 1724": "https://repository.library.brown.edu/studio/search/?q=\"Louis I, 1724\""
+    },
+    "media_streams": [],
+    "thumbnail": "https://repository.library.brown.edu/viewers/image/thumbnail/bdr:573180/",
+    "views": {}
+  },
+  "mods_constituent_data_ssim": [
+    "{\"title\": \"Loa, para la comedia con que celebr\\u00f3 la familia del excmo. Sor. marques de Castel-Fuerte Virrey\", \"display\": \"Loa, para la comedia con que celebr\\u00f3 la familia del excmo. Sor. marques de Castel-Fuerte Virrey: \", \"creators\": [], \"genre\": \"\", \"pages_start\": \"\", \"pages_end\": \"\"}",
+    "{\"title\": \"Saynete intermedio para la comedia que se represent\\u00f3 en palacio en la feliz aclamacion del rey N.S. intitulado El amor duende\", \"display\": \"Saynete intermedio para la comedia que se represent\\u00f3 en palacio en la feliz aclamacion del rey N.S. intitulado El amor duende: \", \"creators\": [], \"genre\": \"\", \"pages_start\": \"\", \"pages_end\": \"\"}",
+    "{\"title\": \"Introducion al sarao de los planetas\", \"display\": \"Introducion al sarao de los planetas: \", \"creators\": [], \"genre\": \"\", \"pages_start\": \"\", \"pages_end\": \"\"}"
+  ],
+  "mods_constituent_display_ssim": [
+    "Loa, para la comedia con que celebró la familia del excmo. Sor. marques de Castel-Fuerte Virrey:",
+    "Saynete intermedio para la comedia que se representó en palacio en la feliz aclamacion del rey N.S. intitulado El amor duende:",
+    "Introducion al sarao de los planetas:"
+  ],
+  "mods_dateAll_ssim": [
+    "año de 1725",
+    "1725"
+  ],
+  "mods_dateAll_year_ssim": [
+    "1725"
+  ],
+  "mods_dateIssued_ssim": [
+    "año de 1725",
+    "1725"
+  ],
+  "mods_geographic_ssim": [
+    "Spain",
+    "Peru"
+  ],
+  "mods_hierarchical_geographic_city_ssim": [
+    "Lima"
+  ],
+  "mods_hierarchical_geographic_country_ssim": [
+    "Peru"
+  ],
+  "mods_id_internetarchive_ssim": [
+    "elisioperuanosol00fern"
+  ],
+  "mods_id_oclc_ssim": [
+    "752141889"
+  ],
+  "mods_language_code_ssim": [
+    "spa",
+    "lat"
+  ],
+  "mods_language_ssim": [
+    "spa",
+    "lat"
+  ],
+  "mods_name_nonplace_ssim": [
+    "Fernández de Castro y Bocangel, Jerónimo.",
+    "Peralta Barnuevo, Pedro de",
+    "Monforte y Vera, Jerónimo."
+  ],
+  "mods_note_statement_of_responsibility_ssim": [
+    "Inspiradas, y dirigidas por el excelentissimo señor marquès de Castel-Fuerte, cavallero del Orden de Santiago, comendador de Montizon, y Chiclana, theniente coronel del regimiento de guardias de Españoles, del consejo de S.M. virrey, lugarteniente, governador, y capitan general de el Perù, Tierrafirme, y Chile &c. y las resume, don Geronimo Fernandez de Castro, y Bocangel, del consejo de Su Magestad, su secretario, Doct. en ambos derechos, y cavallerizo mayor de S.E."
+  ],
+  "mods_physicalDescription_extent_ssim": [
+    "[144] p. ; 21 cm. (4to)"
+  ],
+  "mods_physicalDescription_form_ssim": [
+    "print"
+  ],
+  "mods_publication_code_ssim": [
+    "pe"
+  ],
+  "mods_publication_place_ssim": [
+    "En Lima"
+  ],
+  "mods_publisher_ssim": [
+    "por Francisco Sobrino, impressor del Santo Oficio, en el portal de los escribanos"
+  ],
+  "mods_record_info_record_identifier_ocolc_ssim": [
+    "ocn752141889"
+  ],
+  "mods_record_info_record_identifier_ssim": [
+    "ocn752141889"
+  ],
+  "mods_related_name_ssim": [
+    "Peralta Barnuevo, Pedro de,",
+    "1663-1743",
+    "Monforte y Vera, Jerónimo.",
+    "Fernández de Castro y Bocangel, Jerónimo."
+  ],
+  "mods_subject_joined_lcsh_ssim": [
+    "I, King of Spain > Louis > 1707-1724",
+    "Spain > History > Louis I, 1724",
+    "Peru > History > 1548-1820"
+  ],
+  "mods_subject_joined_ssim": [
+    "s-pe--- > e-sp---",
+    "I, King of Spain > Louis > 1707-1724",
+    "Spain > History > Louis I, 1724",
+    "Peru > History > 1548-1820",
+    "Imprint 1725.",
+    "Peru > Lima"
+  ],
+  "mods_subject_lcsh_ssim": [
+    "History",
+    "Louis I, 1724",
+    "1548-1820"
+  ],
+  "mods_subject_ssim": [
+    "History",
+    "Louis I, 1724",
+    "1548-1820",
+    "Imprint 1725."
+  ],
+  "mods_title_full_primary_tsi": "Elisio peruano: Solemnidades heroicas, y festivas demonstraciones de jubilos, que se han logrado en la muy noble, y muy leal ciudad de los reyes Lima, cabeza de la America austral, y corte del Perù, en la aclamacion del excelso nombre del muy alto, muy poderoso, siempre augusto, Catholico Monarcha de las Españas, y emperador de la America don Luis Primero N.S. (que Dios guarde.)",
+  "mods_title_full_tsim": [
+    "Elisio peruano: Solemnidades heroicas, y festivas demonstraciones de jubilos, que se han logrado en la muy noble, y muy leal ciudad de los reyes Lima, cabeza de la America austral, y corte del Perù, en la aclamacion del excelso nombre del muy alto, muy poderoso, siempre augusto, Catholico Monarcha de las Españas, y emperador de la America don Luis Primero N.S. (que Dios guarde.)"
+  ],
+  "mods_type_of_resource": [
+    "text"
+  ],
+  "name": [
+    "Fernández de Castro y Bocangel, Jerónimo.",
+    "Peralta Barnuevo, Pedro de",
+    "Monforte y Vera, Jerónimo."
+  ],
+  "note": [
+    "Inspiradas, y dirigidas por el excelentissimo señor marquès de Castel-Fuerte, cavallero del Orden de Santiago, comendador de Montizon, y Chiclana, theniente coronel del regimiento de guardias de Españoles, del consejo de S.M. virrey, lugarteniente, governador, y capitan general de el Perù, Tierrafirme, y Chile &c. y las resume, don Geronimo Fernandez de Castro, y Bocangel, del consejo de Su Magestad, su secretario, Doct. en ambos derechos, y cavallerizo mayor de S.E.",
+    "The authors of the large poems and dialogues beginning on p. [113] are identified on p. [101]",
+    "\"Loa, para la comedia con que celebró la familia del excmo. Sor. marques de Castel-Fuerte virrey de estos reynos la assumpcion â la corona de España del rey Nro. S.D. Luis I. que Dios guarde, en las fiestes reales, que hicieron en esta ciudad à tan glorioso assumpto\", p. [113-122], has separate caption title, and is written by Pedro Barnuevo de Peralta.",
+    "\"Saynete intermedio para la comedia que se representó en palacio en la feliz aclamacion del rey N.S. intitulado El amor duende\", p. [123-134], has separate caption title and is written by Jerónimo Monforte y Vera.",
+    "\"Introduction al sarao de los planetas\", p. [135-142], has separate caption title and is written by Jerónimo Fernández de Castro y Bocangel.",
+    "Text primarily in Spanish with some marginal notes and other passages in Latin.",
+    "Signatures: pi1 (pi1 verso blank) A (-A4) B-O (O4 verso blank) ²A-H² (H2 blank)",
+    "Title page printed within ornamental woodcut border; head and tail pieces; initials."
+  ],
+  "object_created_dsi": "2015-09-21T19:26:29.117Z",
+  "object_last_modified_dsi": "2021-11-26T20:41:00.346Z",
+  "object_size_lsi": 404714188,
+  "object_type": "internet_archive",
+  "other_title": [
+    "Palau y Dulcet (2. ed.)",
+    "Medina, J.T. Lima,",
+    "Loa, para la comedia con que celebró la familia del excmo. Sor. marques de Castel-Fuerte Virrey",
+    "Saynete intermedio para la comedia que se representó en palacio en la feliz aclamacion del rey N.S. intitulado El amor duende",
+    "Introducion al sarao de los planetas"
+  ],
+  "pid": "bdr:573180",
+  "primary_download_link": "https://repository.library.brown.edu/storage/bdr:573180/PDF/",
+  "primary_title": "Elisio peruano",
+  "primary_title_txt_en_split": "Elisio peruano",
+  "publication_code": [
+    "pe"
+  ],
+  "publication_place": [
+    "En Lima"
+  ],
+  "publisher": [
+    "por Francisco Sobrino, impressor del Santo Oficio, en el portal de los escribanos"
+  ],
+  "rel_content_models_ssim": [
+    "internet_archive",
+    "commonMetadata"
+  ],
+  "rel_is_member_of_collection_ssim": [
+    "bdr:10855"
+  ],
+  "rel_object_type_ssi": "internet_archive",
+  "relations": {
+    "hasAnnotation": [],
+    "hasDerivation": [],
+    "hasDescription": [],
+    "hasPart": [],
+    "hasTranscript": [],
+    "hasTranslation": [],
+    "isDerivationOf": [],
+    "isMemberOf": [],
+    "isMemberOfCollection": [
+      {
+        "ancestors": [],
+        "child_folders": [],
+        "db_id": 549,
+        "description": "The John Carter Brown Library is an independently administered and funded center for advanced research in history and the humanities, founded in 1846 and located at Brown University since 1901. Housed within the library's walls is an internationally renowned collection of primary historical sources pertaining to North and South America from the time of its discovery by Europeans (ca. 1492) until the end of the colonial period (ca. 1825).",
+        "id": "bdr:10855",
+        "json_uri": "https://repository.library.brown.edu/api/collections/bdr:10855/",
+        "name": "John Carter Brown Library",
+        "parent_folders": [],
+        "pid": "bdr:10855",
+        "tags": [
+          "university"
+        ],
+        "uri": "https://repository.library.brown.edu/studio/collections/bdr:10855/"
+      }
+    ],
+    "isPartOf": [],
+    "isTranscriptOf": [],
+    "isTranslationOf": [],
+    "isVersionOf": []
+  },
+  "resource_type_ssi": "books",
+  "storage_location_ssi": "ocfl",
+  "subject": [
+    "Louis",
+    "Spain",
+    "Peru"
+  ],
+  "subtitle": [
+    "Solemnidades heroicas, y festivas demonstraciones de jubilos, que se han logrado en la muy noble, y muy leal ciudad de los reyes Lima, cabeza de la America austral, y corte del Perù, en la aclamacion del excelso nombre del muy alto, muy poderoso, siempre augusto, Catholico Monarcha de las Españas, y emperador de la America don Luis Primero N.S. (que Dios guarde.)"
+  ],
+  "thumbnail": "https://repository.library.brown.edu/viewers/image/thumbnail/bdr:573180/",
+  "timestamp": "2021-11-26T20:41:01.157Z",
+  "title_si": "Elisio peruano",
+  "uri": "https://repository.library.brown.edu/studio/item/bdr:573180/",
+  "views_dict": {}
+}

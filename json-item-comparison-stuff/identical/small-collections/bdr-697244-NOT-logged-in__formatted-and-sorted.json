@@ -1,0 +1,948 @@
+{
+  "_display_brown_bsi": false,
+  "_display_private_bsi": false,
+  "_display_public_bsi": true,
+  "abstract": [
+    "These files contain magnetic resonance data collected using the specified relaxation time constant. Each set of volumetric data has been resampled in axial, coronal, and sagittal views and saved as three sets of DICOM data. Only image files containing visible brain tissue have been saved and included in this set. Overall, the MR studies show clear white-­gray differentiation and accurate anatomical representation. Magnetic resonance data was collected at Brown University on a Siemens 3 Tesla PRISMA scanner. The following conditions apply to this data: Expansion: 3D Magnetization Prepared Rapid Acquisition GRE (MP RAGE) Transfer Syntax: Little Endian Explicit. Slice Thickness: 480.00 μm. L­-R Angle: -86°. S-­I Angle: 4°. Scan Mode: t1_mprage PRISMA Number of Slices: 240."
+  ],
+  "api_links": {
+    "collections": {
+      "Bactrian Camel Brain Imaging": "https://repository.library.brown.edu/api/collections/bdr:b83dh3x8/",
+      "Brown University Open Data Collection": "https://repository.library.brown.edu/api/collections/bdr:bwehb8b8/"
+    },
+    "keywords": {
+      "Bactrian camel": "https://repository.library.brown.edu/api/search/?q='Bactrian%20camel'",
+      "Magnetic resonance": "https://repository.library.brown.edu/api/search/?q='Magnetic%20resonance'",
+      "Neuroimaging": "https://repository.library.brown.edu/api/search/?q='Neuroimaging'"
+    }
+  },
+  "brief": {
+    "abstract": [
+      "These files contain magnetic resonance data collected using the specified relaxation time constant. Each set of volumetric data has been resampled in axial, coronal, and sagittal views and saved as three sets of DICOM data. Only image files containing visible brain tissue have been saved and included in this set. Overall, the MR studies show clear white-­gray differentiation and accurate anatomical representation. Magnetic resonance data was collected at Brown University on a Siemens 3 Tesla PRISMA scanner. The following conditions apply to this data: Expansion: 3D Magnetization Prepared Rapid Acquisition GRE (MP RAGE) Transfer Syntax: Little Endian Explicit. Slice Thickness: 480.00 μm. L­-R Angle: -86°. S-­I Angle: 4°. Scan Mode: t1_mprage PRISMA Number of Slices: 240."
+    ],
+    "contributors": [
+      "Walsh, Edward (author)",
+      "Collins, Scott (author)",
+      "Leary, Owen (author)",
+      "Merck, Derek (author)",
+      "Merck, Lisa (author)",
+      "Sherwood, Chester (author)"
+    ],
+    "date created": [
+      "2016"
+    ],
+    "doi": [
+      "10.7301/Z00C4SPV"
+    ],
+    "full_title": [
+      "Bactrian camel neuroimaging: magnetic resonance, T1 weighted (set 2): saggital view"
+    ],
+    "keywords": [
+      "Bactrian camel",
+      "Neuroimaging",
+      "Magnetic resonance"
+    ],
+    "notes": [
+      "Imaging modalities: Magnetic resonance",
+      "View: Sagittal view"
+    ],
+    "title": [
+      "Bactrian camel neuroimaging: magnetic resonance, T1 weighted (set 2): saggital view"
+    ]
+  },
+  "catalog_links": [],
+  "collection_date": "2019-01-19T00:00:00Z",
+  "contributor": [
+    "Walsh, Edward",
+    "Collins, Scott",
+    "Leary, Owen",
+    "Merck, Derek",
+    "Merck, Lisa",
+    "Sherwood, Chester"
+  ],
+  "contributor_display": [
+    "Walsh, Edward (author)",
+    "Collins, Scott (author)",
+    "Leary, Owen (author)",
+    "Merck, Derek (author)",
+    "Merck, Lisa (author)",
+    "Sherwood, Chester (author)"
+  ],
+  "contributor_string": [
+    "Walsh, Edward",
+    "Collins, Scott",
+    "Leary, Owen",
+    "Merck, Derek",
+    "Merck, Lisa",
+    "Sherwood, Chester"
+  ],
+  "datastreams": {
+    "DC": {
+      "checksum": "980015c640f13ea86a02fddefab7315f77923542e9b0b077caf438463672ea150d1eaedce820a36dbfd2e44c8fd4a232c03a30bdc6ed38043575ca88a20dd8b4",
+      "checksumType": "SHA-512",
+      "lastModified": "2016-08-18T15:19:10.512000Z",
+      "mimeType": "application/octet-stream",
+      "size": 339
+    },
+    "MODS": {
+      "checksum": "2d087de6525ede6a524ef36f55a2a44df338080536bc9a26389cdfeea77a7cebeb7633cf8540c912b6e7b9fb919f59d380b0dcba454760f4462ce32e2b42bdac",
+      "checksumType": "SHA-512",
+      "lastModified": "2016-08-30T15:31:26.979000Z",
+      "mimeType": "text/xml",
+      "size": 3829
+    },
+    "RELS-EXT": {
+      "checksum": "1d172b41b0a8d9e5f9fae1c5aab4e66d2e46e4bd81fc334cdae0f2f1fb82e136f5b364787815a94d6eb75409be572fc255e3fe5b644b9e8edaea791b6b04bc32",
+      "checksumType": "SHA-512",
+      "lastModified": "2021-11-30T02:27:03.106602Z",
+      "mimeType": "text/xml",
+      "size": 619
+    },
+    "RELS-INT": {
+      "checksum": "e1f2a9ce1a11fabd9ee3d2d1eedcb389541cc926996e8eeb3c1a11f18302485ee8460487b77cbb285ad35ea6b7c6f2f8815793babe453d3596454703f94ab984",
+      "checksumType": "SHA-512",
+      "lastModified": "2016-08-18T15:19:10.512000Z",
+      "mimeType": "text/xml",
+      "size": 347
+    },
+    "ZIP": {
+      "checksum": "e6d107b8369f1aa0690006c47ca8b22532c85737c2c874ba2fcbd849bedbc63f2999786782a2db1684b99809eb7d65087c71606c29e7b4687beb730b5666f2f1",
+      "checksumType": "SHA-512",
+      "lastModified": "2016-08-18T15:19:10.512000Z",
+      "mimeType": "application/zip",
+      "size": 69535232
+    },
+    "irMetadata": {
+      "checksum": "09ef86371a1a7620ef00bd0b8e2be2ba163f53d4570711c371574b9bf574d7374183c58713472ebbc24bf65bd1fd48074ad8aec769fa0f7fc569653b1fa03f35",
+      "checksumType": "SHA-512",
+      "lastModified": "2019-01-20T00:48:55.805000Z",
+      "mimeType": "application/octet-stream",
+      "size": 437
+    },
+    "rightsMetadata": {
+      "checksum": "55c2dbd1e0c425e84d10d2ceebc1baf373646a0e8c0a80d8de778c8042811bf09333aac9dd95312e12d08e85ec7f5e1aafb182498090ba42f5480c3e81780baf",
+      "checksumType": "SHA-512",
+      "lastModified": "2016-08-18T15:19:10.512000Z",
+      "mimeType": "application/octet-stream",
+      "size": 813
+    },
+    "thumbnail": {
+      "checksum": "8f32624fc92ea5ba03a23e4327a038bfaa7363113fc07688ce411eaac326f8525cbf33bd5154a0c910bfbac0e3a3aa9c05c8d0c980b5391f128629ee6bf8e47d",
+      "checksumType": "SHA-512",
+      "lastModified": "2016-08-23T15:02:00.180000Z",
+      "mimeType": "application/octet-stream",
+      "size": 320413
+    }
+  },
+  "dateCreated": "2016-01-01T00:00:00Z",
+  "dateCreated_month_ssim": [
+    "01"
+  ],
+  "dateCreated_month_text_ssim": [
+    "January"
+  ],
+  "dateCreated_year_ssim": [
+    "2016"
+  ],
+  "date_dsi": "2016-01-01T00:00:00Z",
+  "deposit_date": "2016-08-18T00:00:00Z",
+  "display_inline": "<iframe name=\"contentIframe\" src=\"https://repository.library.brown.edu/viewers/archive/bdr:697244/\" width=\"100%\" height=\"800\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+  "display_inline_src": "https://repository.library.brown.edu/viewers/archive/bdr:697244/",
+  "fed_created_dsi": "2016-08-18T15:19:10.512Z",
+  "fed_last_modified_dsi": "2021-11-30T02:27:03.106Z",
+  "fed_object_size_lsi": 69862029,
+  "genre": [
+    "magnetic resonance imaging"
+  ],
+  "genre_aat": [
+    "magnetic resonance imaging"
+  ],
+  "ir_collection_id": [
+    671,
+    719
+  ],
+  "ir_collection_name": [
+    "Brown University Open Data Collection",
+    "Bactrian Camel Brain Imaging"
+  ],
+  "json_uri": "https://repository.library.brown.edu/api/items/bdr:697244/",
+  "keyword": [
+    "Bactrian camel",
+    "Neuroimaging",
+    "Magnetic resonance"
+  ],
+  "links": {
+    "collections": {
+      "Bactrian Camel Brain Imaging": "https://repository.library.brown.edu/studio/collections/bdr:b83dh3x8/",
+      "Brown University Open Data Collection": "https://repository.library.brown.edu/studio/collections/bdr:bwehb8b8/"
+    },
+    "content_datastreams": {
+      "ZIP": "https://repository.library.brown.edu/storage/bdr:697244/ZIP/"
+    },
+    "descriptive_datastreams": {
+      "MODS": "https://repository.library.brown.edu/storage/bdr:697244/MODS/"
+    },
+    "keywords": {
+      "Bactrian camel": "https://repository.library.brown.edu/studio/search/?q=\"Bactrian camel\"",
+      "Magnetic resonance": "https://repository.library.brown.edu/studio/search/?q=\"Magnetic resonance\"",
+      "Neuroimaging": "https://repository.library.brown.edu/studio/search/?q=\"Neuroimaging\""
+    },
+    "media_streams": [],
+    "thumbnail": "https://repository.library.brown.edu/viewers/image/thumbnail/bdr:697244/",
+    "views": {
+      "Archive Contents": "https://repository.library.brown.edu/viewers/archive/bdr:697244/contents/",
+      "Archive Default": "https://repository.library.brown.edu/viewers/archive/bdr:697244/"
+    }
+  },
+  "mods_abstract_ssim": [
+    "These files contain magnetic resonance data collected using the specified relaxation time constant. Each set of volumetric data has been resampled in axial, coronal, and sagittal views and saved as three sets of DICOM data. Only image files containing visible brain tissue have been saved and included in this set. Overall, the MR studies show clear white-­gray differentiation and accurate anatomical representation. Magnetic resonance data was collected at Brown University on a Siemens 3 Tesla PRISMA scanner. The following conditions apply to this data: Expansion: 3D Magnetization Prepared Rapid Acquisition GRE (MP RAGE) Transfer Syntax: Little Endian Explicit. Slice Thickness: 480.00 μm. L­-R Angle: -86°. S-­I Angle: 4°. Scan Mode: t1_mprage PRISMA Number of Slices: 240."
+  ],
+  "mods_dateAll_ssim": [
+    "2016"
+  ],
+  "mods_dateAll_year_ssim": [
+    "2016"
+  ],
+  "mods_dateCreated_ssim": [
+    "2016"
+  ],
+  "mods_genre_aat_ssim": [
+    "magnetic resonance imaging"
+  ],
+  "mods_id": "bdr697244",
+  "mods_id_doi_ssi": "https://doi.org/10.7301/Z00C4SPV",
+  "mods_name_nonplace_ssim": [
+    "Walsh, Edward",
+    "Collins, Scott",
+    "Leary, Owen",
+    "Merck, Derek",
+    "Merck, Lisa",
+    "Sherwood, Chester"
+  ],
+  "mods_note_imaging_modalities_ssim": [
+    "Magnetic resonance"
+  ],
+  "mods_note_scan_ssim": [
+    "Magnetic resonance"
+  ],
+  "mods_note_view_ssim": [
+    "Sagittal view"
+  ],
+  "mods_role_author_ssim": [
+    "Walsh, Edward",
+    "Collins, Scott",
+    "Leary, Owen",
+    "Merck, Derek",
+    "Merck, Lisa",
+    "Sherwood, Chester"
+  ],
+  "mods_role_ssim": [
+    "author"
+  ],
+  "mods_subject_joined_lcsh_ssim": [
+    "Bactrian camel",
+    "Magnetic resonance"
+  ],
+  "mods_subject_joined_mesh_ssim": [
+    "Neuroimaging"
+  ],
+  "mods_subject_joined_ssim": [
+    "Bactrian camel",
+    "Neuroimaging",
+    "Magnetic resonance"
+  ],
+  "mods_subject_lcsh_ssim": [
+    "Bactrian camel",
+    "Magnetic resonance"
+  ],
+  "mods_subject_mesh_ssim": [
+    "Neuroimaging"
+  ],
+  "mods_subject_ssim": [
+    "Bactrian camel",
+    "Neuroimaging",
+    "Magnetic resonance"
+  ],
+  "mods_title_full_primary_tsi": "Bactrian camel neuroimaging: magnetic resonance, T1 weighted (set 2): saggital view",
+  "mods_title_full_tsim": [
+    "Bactrian camel neuroimaging: magnetic resonance, T1 weighted (set 2): saggital view"
+  ],
+  "mods_type_of_resource": [
+    "still image"
+  ],
+  "name": [
+    "Walsh, Edward",
+    "Collins, Scott",
+    "Leary, Owen",
+    "Merck, Derek",
+    "Merck, Lisa",
+    "Sherwood, Chester"
+  ],
+  "note": [
+    "Imaging modalities: Magnetic resonance",
+    "View: Sagittal view"
+  ],
+  "object_created_dsi": "2016-08-18T15:19:10.512Z",
+  "object_last_modified_dsi": "2021-11-30T02:27:03.106Z",
+  "object_size_lsi": 69862029,
+  "object_type": "zip",
+  "pid": "bdr:697244",
+  "primary_download_link": "https://repository.library.brown.edu/viewers/archive/bdr:697244/",
+  "primary_title": "Bactrian camel neuroimaging: magnetic resonance, T1 weighted (set 2): saggital view",
+  "primary_title_txt_en_split": "Bactrian camel neuroimaging: magnetic resonance, T1 weighted (set 2): saggital view",
+  "rel_content_models_ssim": [
+    "zip",
+    "commonMetadata"
+  ],
+  "rel_is_member_of_collection_ssim": [
+    "bdr:bwehb8b8",
+    "bdr:b83dh3x8"
+  ],
+  "rel_object_type_ssi": "zip",
+  "relations": {
+    "hasAnnotation": [],
+    "hasDerivation": [],
+    "hasDescription": [],
+    "hasPart": [
+      {
+        "_display_brown_bsi": false,
+        "_display_private_bsi": false,
+        "_display_public_bsi": true,
+        "collection_date": "2016-08-18T00:00:00Z",
+        "contributor": [
+          "Walsh, Edward",
+          "Collins, Scott",
+          "Leary, Owen",
+          "Merck, Derek",
+          "Merck, Lisa",
+          "Sherwood, Chester"
+        ],
+        "contributor_display": [
+          "Walsh, Edward (author)",
+          "Collins, Scott (author)",
+          "Leary, Owen (author)",
+          "Merck, Derek (author)",
+          "Merck, Lisa (author)",
+          "Sherwood, Chester (author)"
+        ],
+        "contributor_string": [
+          "Walsh, Edward",
+          "Collins, Scott",
+          "Leary, Owen",
+          "Merck, Derek",
+          "Merck, Lisa",
+          "Sherwood, Chester"
+        ],
+        "datastreams_ssi": "{\"RELS-INT\": {\"mimeType\": \"text/xml\", \"size\": 349, \"checksum\": \"0ce670f3849bce55340558ca4ffe7653593b00d9b482993090accd19d2116c7ab51699a47aae62c0bbcc2b995624df3b094c41a2de847f92c4454fc9c0f0247e\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2016-08-18T15:19:25.440000Z\"}, \"rightsMetadata\": {\"mimeType\": \"application/octet-stream\", \"size\": 814, \"checksum\": \"25323cde8916ab79d9df7d98014e285cac76eba0669e4b9f6dbde4c3a4abf1a5afa2f5c549acd61ba2948133ae94581df8f730a682fd907513044b3732e5cde6\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2016-08-18T15:19:25.440000Z\"}, \"RELS-EXT\": {\"mimeType\": \"text/xml\", \"size\": 740, \"checksum\": \"2e797bacaee5fd8308b62dbb29c80ff9066fb1936498abadd878ef68c817815e60e2c9d15bc909f80d57ced3ad3ed23417aaa8aebff0151014228ed7ce4387be\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2021-11-30T05:13:46.590877Z\"}, \"PDF\": {\"mimeType\": \"application/pdf\", \"size\": 26352, \"checksum\": \"341ed65894a3a36003135805e21063628e0451a255f5c95b5d168fec69547d9c5fdab3f66bf1ffabb1960b5426fb9f0c16ec72e6a7c420cead19210d00c76124\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2016-08-18T15:19:25.440000Z\"}, \"thumbnail\": {\"mimeType\": \"application/octet-stream\", \"size\": 1987, \"checksum\": \"6a1f3b94d6fba8e90863183a18ee2fd0a58b41d02ca250e9f47f3aeab6e8e961cf89cfd89732a05751300db13525055f42641907ba734b843eb6c16496a736ff\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2016-08-18T15:24:54.325000Z\"}, \"MODS\": {\"mimeType\": \"text/xml\", \"size\": 2888, \"checksum\": \"717e07a6ccaf2eb70e9cf4027360647d65f6cf2541ee7e461ec83f3d8a08c371b3d7d5a8aff8ec067a1f007e60330812c75ab3d0b828ce0fa32725c81579b7f1\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2016-08-18T15:19:25.440000Z\"}, \"DC\": {\"mimeType\": \"application/octet-stream\", \"size\": 339, \"checksum\": \"af2264b807ae19270eb71948e71d9cbdcac74d88bcd90b1f5776fe14febd8005d4c567241c88ed0e256ba06d85e198a1e4630741362dcc459625966111086c69\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2016-08-18T15:19:25.440000Z\"}, \"irMetadata\": {\"mimeType\": \"application/octet-stream\", \"size\": 370, \"checksum\": \"b6acd404ddb83ff09a70ec700abb98516c5bb7942a00e82c89a455894beb3fff280683b5151f018d086129a720fa76c58138e9f92566429d09b0d9b72f5c46d7\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2016-08-18T15:19:25.440000Z\"}}",
+        "dateCreated": "2016-01-01T00:00:00Z",
+        "dateCreated_month_ssim": [
+          "01"
+        ],
+        "dateCreated_month_text_ssim": [
+          "January"
+        ],
+        "dateCreated_year_ssim": [
+          "2016"
+        ],
+        "date_dsi": "2016-01-01T00:00:00Z",
+        "deposit_date": "2016-08-18T00:00:00Z",
+        "display_label": "pdf",
+        "fed_created_dsi": "2016-08-18T15:19:25.440Z",
+        "fed_last_modified_dsi": "2021-11-30T05:13:46.590Z",
+        "fed_object_size_lsi": 33839,
+        "genre": [
+          "documentation (activity)"
+        ],
+        "genre_aat": [
+          "documentation (activity)"
+        ],
+        "ir_collection_id": [
+          719
+        ],
+        "ir_collection_name": [
+          "Bactrian Camel Brain Imaging"
+        ],
+        "keyword": [
+          "Bactrian camel",
+          "Neuroimaging",
+          "Magnetic resonance"
+        ],
+        "mods_dateAll_ssim": [
+          "2016"
+        ],
+        "mods_dateAll_year_ssim": [
+          "2016"
+        ],
+        "mods_dateCreated_ssim": [
+          "2016"
+        ],
+        "mods_genre_aat_ssim": [
+          "documentation (activity)"
+        ],
+        "mods_id": "bdr697244_1",
+        "mods_language_code_ssim": [
+          "eng"
+        ],
+        "mods_language_ssim": [
+          "eng"
+        ],
+        "mods_name_nonplace_ssim": [
+          "Walsh, Edward",
+          "Collins, Scott",
+          "Leary, Owen",
+          "Merck, Derek",
+          "Merck, Lisa",
+          "Sherwood, Chester"
+        ],
+        "mods_physicalDescription_extent_ssim": [
+          "1 p."
+        ],
+        "mods_role_author_ssim": [
+          "Walsh, Edward",
+          "Collins, Scott",
+          "Leary, Owen",
+          "Merck, Derek",
+          "Merck, Lisa",
+          "Sherwood, Chester"
+        ],
+        "mods_role_ssim": [
+          "author"
+        ],
+        "mods_subject_joined_lcsh_ssim": [
+          "Bactrian camel",
+          "Magnetic resonance"
+        ],
+        "mods_subject_joined_mesh_ssim": [
+          "Neuroimaging"
+        ],
+        "mods_subject_joined_ssim": [
+          "Bactrian camel",
+          "Neuroimaging",
+          "Magnetic resonance"
+        ],
+        "mods_subject_lcsh_ssim": [
+          "Bactrian camel",
+          "Magnetic resonance"
+        ],
+        "mods_subject_mesh_ssim": [
+          "Neuroimaging"
+        ],
+        "mods_subject_ssim": [
+          "Bactrian camel",
+          "Neuroimaging",
+          "Magnetic resonance"
+        ],
+        "mods_title_full_primary_tsi": "README for Magnetic resonance studies",
+        "mods_title_full_tsim": [
+          "README for Magnetic resonance studies"
+        ],
+        "mods_type_of_resource": [
+          "text"
+        ],
+        "name": [
+          "Walsh, Edward",
+          "Collins, Scott",
+          "Leary, Owen",
+          "Merck, Derek",
+          "Merck, Lisa",
+          "Sherwood, Chester"
+        ],
+        "object_created_dsi": "2016-08-18T15:19:25.440Z",
+        "object_last_modified_dsi": "2021-11-30T05:13:46.590Z",
+        "object_size_lsi": 33839,
+        "object_type": "pdf",
+        "order": "1",
+        "pid": "bdr:705231",
+        "primary_title": "README for Magnetic resonance studies",
+        "primary_title_txt_en_split": "README for Magnetic resonance studies",
+        "rel_content_models_ssim": [
+          "commonMetadata",
+          "pdf"
+        ],
+        "rel_has_pagination_ssim": [
+          "1"
+        ],
+        "rel_is_member_of_collection_ssim": [
+          "bdr:b83dh3x8"
+        ],
+        "rel_is_part_of_ssim": [
+          "bdr:697244"
+        ],
+        "rel_object_type_ssi": "pdf",
+        "resource_type_ssi": "text_resources",
+        "storage_location_ssi": "ocfl",
+        "timestamp": "2021-11-30T05:13:47.288Z",
+        "title_si": "README for Magnetic resonance studies",
+        "uri": "https://repository.library.brown.edu/studio/item/bdr:705231/"
+      },
+      {
+        "_display_brown_bsi": false,
+        "_display_private_bsi": false,
+        "_display_public_bsi": true,
+        "collection_date": "2016-08-18T00:00:00Z",
+        "contributor": [
+          "Walsh, Edward",
+          "Collins, Scott",
+          "Leary, Owen",
+          "Merck, Derek",
+          "Merck, Lisa",
+          "Sherwood, Chester"
+        ],
+        "contributor_display": [
+          "Walsh, Edward (author)",
+          "Collins, Scott (author)",
+          "Leary, Owen (author)",
+          "Merck, Derek (author)",
+          "Merck, Lisa (author)",
+          "Sherwood, Chester (author)"
+        ],
+        "contributor_string": [
+          "Walsh, Edward",
+          "Collins, Scott",
+          "Leary, Owen",
+          "Merck, Derek",
+          "Merck, Lisa",
+          "Sherwood, Chester"
+        ],
+        "datastreams_ssi": "{\"PDF\": {\"mimeType\": \"application/pdf\", \"size\": 26823, \"checksum\": \"1002a04fa5092289e6aa31d9013c5cfd2368d57fe0ac292892f1ac4b3e24f497459fd0fedc51c2382f312dc9906ba1c4f8c87a26ada7cda9fddea7e02d5d30e9\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2016-08-18T15:19:24.198000Z\"}, \"RELS-EXT\": {\"mimeType\": \"text/xml\", \"size\": 740, \"checksum\": \"24515d6bea7b511563dc1c345118339edd81eb7c2946f3e4c06c1e6ee27254caafadf91ab722cc5b4e44fce94ec96eae3d3eb93bf8fcfb5ad6f12d29087ba11e\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2021-11-30T05:13:45.584043Z\"}, \"rightsMetadata\": {\"mimeType\": \"application/octet-stream\", \"size\": 814, \"checksum\": \"25323cde8916ab79d9df7d98014e285cac76eba0669e4b9f6dbde4c3a4abf1a5afa2f5c549acd61ba2948133ae94581df8f730a682fd907513044b3732e5cde6\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2016-08-18T15:19:24.198000Z\"}, \"MODS\": {\"mimeType\": \"text/xml\", \"size\": 2893, \"checksum\": \"37e2ccb4a4590984e3e9f6fb2a2d8330ba1f0869588dd3c09608471c9baade1798b50e72b9194b7473f3c40823ae06e6affc7be6c36771e3b2a34aacd83934a1\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2016-08-18T15:19:24.198000Z\"}, \"DC\": {\"mimeType\": \"application/octet-stream\", \"size\": 339, \"checksum\": \"595eecaeaa103900e36c77b8b59549e93069226f445c95f35d85bbe924a88b2c88229714233de5651b40ea15c44395ea9bb486dab0dbf9cdc6b638835013dca8\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2016-08-18T15:19:24.198000Z\"}, \"irMetadata\": {\"mimeType\": \"application/octet-stream\", \"size\": 370, \"checksum\": \"b6acd404ddb83ff09a70ec700abb98516c5bb7942a00e82c89a455894beb3fff280683b5151f018d086129a720fa76c58138e9f92566429d09b0d9b72f5c46d7\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2016-08-18T15:19:24.198000Z\"}, \"thumbnail\": {\"mimeType\": \"application/octet-stream\", \"size\": 1769, \"checksum\": \"b8a4045fbf826296a8430b00ffcf7dfa730b1d6c2d67cbf6f181901a39da9ef54599b7fdea7c4864cf4a7c65ed614767408a7cd6cb3921432a3e56e3df39a4a3\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2016-08-18T15:24:54.933000Z\"}, \"RELS-INT\": {\"mimeType\": \"text/xml\", \"size\": 349, \"checksum\": \"ff6d3203ab976d4b451aed826cbc8b0fdcb7368ee3d026e2f2d85318d2ae7abfe78d4f1ce0fd6fa2afa2df6a4fdf54a43583576a5a4645678f6eec85f011d11d\", \"checksumType\": \"SHA-512\", \"lastModified\": \"2016-08-18T15:19:24.198000Z\"}}",
+        "dateCreated": "2016-01-01T00:00:00Z",
+        "dateCreated_month_ssim": [
+          "01"
+        ],
+        "dateCreated_month_text_ssim": [
+          "January"
+        ],
+        "dateCreated_year_ssim": [
+          "2016"
+        ],
+        "date_dsi": "2016-01-01T00:00:00Z",
+        "deposit_date": "2016-08-18T00:00:00Z",
+        "display_label": "pdf",
+        "fed_created_dsi": "2016-08-18T15:19:24.198Z",
+        "fed_last_modified_dsi": "2021-11-30T05:13:45.584Z",
+        "fed_object_size_lsi": 34097,
+        "genre": [
+          "documentation (activity)"
+        ],
+        "genre_aat": [
+          "documentation (activity)"
+        ],
+        "ir_collection_id": [
+          719
+        ],
+        "ir_collection_name": [
+          "Bactrian Camel Brain Imaging"
+        ],
+        "keyword": [
+          "Bactrian camel",
+          "Neuroimaging",
+          "Magnetic resonance"
+        ],
+        "mods_dateAll_ssim": [
+          "2016"
+        ],
+        "mods_dateAll_year_ssim": [
+          "2016"
+        ],
+        "mods_dateCreated_ssim": [
+          "2016"
+        ],
+        "mods_genre_aat_ssim": [
+          "documentation (activity)"
+        ],
+        "mods_id": "bdr697244_2",
+        "mods_language_code_ssim": [
+          "eng"
+        ],
+        "mods_language_ssim": [
+          "eng"
+        ],
+        "mods_name_nonplace_ssim": [
+          "Walsh, Edward",
+          "Collins, Scott",
+          "Leary, Owen",
+          "Merck, Derek",
+          "Merck, Lisa",
+          "Sherwood, Chester"
+        ],
+        "mods_physicalDescription_extent_ssim": [
+          "1 p."
+        ],
+        "mods_role_author_ssim": [
+          "Walsh, Edward",
+          "Collins, Scott",
+          "Leary, Owen",
+          "Merck, Derek",
+          "Merck, Lisa",
+          "Sherwood, Chester"
+        ],
+        "mods_role_ssim": [
+          "author"
+        ],
+        "mods_subject_joined_lcsh_ssim": [
+          "Bactrian camel",
+          "Magnetic resonance"
+        ],
+        "mods_subject_joined_mesh_ssim": [
+          "Neuroimaging"
+        ],
+        "mods_subject_joined_ssim": [
+          "Bactrian camel",
+          "Neuroimaging",
+          "Magnetic resonance"
+        ],
+        "mods_subject_lcsh_ssim": [
+          "Bactrian camel",
+          "Magnetic resonance"
+        ],
+        "mods_subject_mesh_ssim": [
+          "Neuroimaging"
+        ],
+        "mods_subject_ssim": [
+          "Bactrian camel",
+          "Neuroimaging",
+          "Magnetic resonance"
+        ],
+        "mods_title_full_primary_tsi": "README for T1 weighted camel brain (Set 2)",
+        "mods_title_full_tsim": [
+          "README for T1 weighted camel brain (Set 2)"
+        ],
+        "mods_type_of_resource": [
+          "text"
+        ],
+        "name": [
+          "Walsh, Edward",
+          "Collins, Scott",
+          "Leary, Owen",
+          "Merck, Derek",
+          "Merck, Lisa",
+          "Sherwood, Chester"
+        ],
+        "object_created_dsi": "2016-08-18T15:19:24.198Z",
+        "object_last_modified_dsi": "2021-11-30T05:13:45.584Z",
+        "object_size_lsi": 34097,
+        "object_type": "pdf",
+        "order": "2",
+        "pid": "bdr:705230",
+        "primary_title": "README for T1 weighted camel brain (Set 2)",
+        "primary_title_txt_en_split": "README for T1 weighted camel brain (Set 2)",
+        "rel_content_models_ssim": [
+          "pdf",
+          "commonMetadata"
+        ],
+        "rel_has_pagination_ssim": [
+          "2"
+        ],
+        "rel_is_member_of_collection_ssim": [
+          "bdr:b83dh3x8"
+        ],
+        "rel_is_part_of_ssim": [
+          "bdr:697244"
+        ],
+        "rel_object_type_ssi": "pdf",
+        "resource_type_ssi": "text_resources",
+        "storage_location_ssi": "ocfl",
+        "timestamp": "2021-11-30T05:13:46.292Z",
+        "title_si": "README for T1 weighted camel brain (Set 2)",
+        "uri": "https://repository.library.brown.edu/studio/item/bdr:705230/"
+      }
+    ],
+    "hasTranscript": [],
+    "hasTranslation": [],
+    "isDerivationOf": [],
+    "isMemberOf": [],
+    "isMemberOfCollection": [
+      {
+        "ancestors": [],
+        "child_folders": [],
+        "db_id": 671,
+        "description": "This collection contains open and publicly-funded data sets created by Brown University faculty and student researchers. Increasingly, publishers, and funders are requiring that protocols, data sets, metadata, and code underlying published research be retained and preserved, their locations cited within publications, and shared with other researchers and the public. The deposits here endeavor to be in line with FAIR Principles (Findable, Accessible, Interoperable, Reusable). <b>If you would like to deposit a data set into this collection for the purposes of citation/linking within a publication and public dissemination, then please <a href=\"https://repository.library.brown.edu/studio/upload/\">log in</a>, zip up and upload your file, and <a href=\"https://repository.library.brown.edu/studio/doi/\">request a digital object identifier (DOI) </a> for your data citation. Contact bdr@brown.edu for assistance.</b>",
+        "id": "bdr:bwehb8b8",
+        "json_uri": "https://repository.library.brown.edu/api/collections/bdr:bwehb8b8/",
+        "name": "Brown University Open Data Collection",
+        "parent_folders": [],
+        "pid": "bdr:bwehb8b8",
+        "tags": [
+          "deposited",
+          "featured"
+        ],
+        "thumbnail_url": "https://repository.library.brown.edu/storage/bdr:bwehb8b8/thumbnail/",
+        "uri": "https://repository.library.brown.edu/studio/collections/bdr:bwehb8b8/"
+      },
+      {
+        "ancestors": [],
+        "child_folders": [],
+        "db_id": 719,
+        "description": "<p>This case study is the result of collaboration between neuroanthropology researchers at George Washington University and neuroimaging researchers at Rhode Island Hospital & Brown University and serves as a means of exploring the efficacy of several medical imaging modalities in accurately representing the anatomy of preserved animal brain tissue. The imaging data presented has been collected on a bactrian camel brain that has long been preserved in fluid and represents a single example of a larger data set of similarly preserved animal brains.</p>\r\n\r\n<p>The imaging modalities used on this animal brain and represented in this set include computed tomography (CT), magnetic resonance (MR), and several diffusion-weighted MR techniques. All volumetric imaging data is available for download through the BDR in the DICOM file format and requires a free or licensed DICOM viewer software for processing. Additional information on imaging parameters and techniques used is included in the data set.</p>\r\n\r\n<p><em>If any resources present in this data set are used, please include a link to this site.</em></p>\r\n\r\n<p><strong>Project Data DOI:</strong> <a href=\"https://doi.org/10.7301/Z00C4SPV\">https://doi.org/10.7301/Z00C4SPV</a></p>\r\n\r\n<p><strong>Project Personnel:</strong><br />\r\nEdward Walsh [1], Scott Collins [2], Owen Leary [1,2], Derek Merck [1,2], Lisa Merck [1,2], and Chester Sherwood [3]<br />\r\n1 = Brown University; 2 = Rhode Island Hospital; 3 = George Washington University</p>\r\n\r\n<p><strong>Camel Identity:</strong><br />\r\nBactrian Camel, Camelus bactrianus<br />\r\nCleveland Metroparks Zoo, Camel 910204: \"Laura\"</p>\r\n\r\n<p><strong>Veterinarian Notes:</strong> “Euthanized due to adrenal pheochromocytoma and aspiration pneumonia. Also had thyroid adenoma (incidental). The pheochromocytoma will cause severe hypertension when functional and would contribute to degenerative changes in the major vessels. Old age would cause similar changes but this animal was only 24 and they can live into their 30s.\"</p>\r\n\r\n<p><em>Camel Photo credit:  Yaan (Own work) [<a href=\"http://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a> or <a href=\"http://www.gnu.org/copyleft/fdl.html\">GFDL</a>], <a href=\"https://commons.wikimedia.org/wiki/File%3AHovsgolTemee.jpg\">via Wikimedia Commons</a></em><p>",
+        "id": "bdr:b83dh3x8",
+        "json_uri": "https://repository.library.brown.edu/api/collections/bdr:b83dh3x8/",
+        "name": "Bactrian Camel Brain Imaging",
+        "parent_folders": [],
+        "pid": "bdr:b83dh3x8",
+        "tags": [
+          "deposited",
+          "research"
+        ],
+        "thumbnail_url": "https://repository.library.brown.edu/storage/bdr:b83dh3x8/thumbnail/",
+        "uri": "https://repository.library.brown.edu/studio/collections/bdr:b83dh3x8/"
+      }
+    ],
+    "isPartOf": [],
+    "isTranscriptOf": [],
+    "isTranslationOf": [],
+    "isVersionOf": []
+  },
+  "resource_type_ssi": "images",
+  "storage_location_ssi": "ocfl",
+  "thumbnail": "https://repository.library.brown.edu/viewers/image/thumbnail/bdr:697244/",
+  "timestamp": "2021-11-30T02:27:04.028Z",
+  "title_si": "Bactrian camel neuroimaging: magnetic resonance, T1 weighted (set 2): saggital view",
+  "uri": "https://repository.library.brown.edu/studio/item/bdr:697244/",
+  "views_dict": {
+    "Archive Contents": "https://repository.library.brown.edu/viewers/archive/bdr:697244/contents/",
+    "Archive Default": "https://repository.library.brown.edu/viewers/archive/bdr:697244/"
+  },
+  "zip_filelist_ssim": [
+    "DICOM files/IM-0001-0001.dcm",
+    "DICOM files/IM-0001-0002.dcm",
+    "DICOM files/IM-0001-0003.dcm",
+    "DICOM files/IM-0001-0004.dcm",
+    "DICOM files/IM-0001-0005.dcm",
+    "DICOM files/IM-0001-0006.dcm",
+    "DICOM files/IM-0001-0007.dcm",
+    "DICOM files/IM-0001-0008.dcm",
+    "DICOM files/IM-0001-0009.dcm",
+    "DICOM files/IM-0001-0010.dcm",
+    "DICOM files/IM-0001-0011.dcm",
+    "DICOM files/IM-0001-0012.dcm",
+    "DICOM files/IM-0001-0013.dcm",
+    "DICOM files/IM-0001-0014.dcm",
+    "DICOM files/IM-0001-0015.dcm",
+    "DICOM files/IM-0001-0016.dcm",
+    "DICOM files/IM-0001-0017.dcm",
+    "DICOM files/IM-0001-0018.dcm",
+    "DICOM files/IM-0001-0019.dcm",
+    "DICOM files/IM-0001-0020.dcm",
+    "DICOM files/IM-0001-0021.dcm",
+    "DICOM files/IM-0001-0022.dcm",
+    "DICOM files/IM-0001-0023.dcm",
+    "DICOM files/IM-0001-0024.dcm",
+    "DICOM files/IM-0001-0025.dcm",
+    "DICOM files/IM-0001-0026.dcm",
+    "DICOM files/IM-0001-0027.dcm",
+    "DICOM files/IM-0001-0028.dcm",
+    "DICOM files/IM-0001-0029.dcm",
+    "DICOM files/IM-0001-0030.dcm",
+    "DICOM files/IM-0001-0031.dcm",
+    "DICOM files/IM-0001-0032.dcm",
+    "DICOM files/IM-0001-0033.dcm",
+    "DICOM files/IM-0001-0034.dcm",
+    "DICOM files/IM-0001-0035.dcm",
+    "DICOM files/IM-0001-0036.dcm",
+    "DICOM files/IM-0001-0037.dcm",
+    "DICOM files/IM-0001-0038.dcm",
+    "DICOM files/IM-0001-0039.dcm",
+    "DICOM files/IM-0001-0040.dcm",
+    "DICOM files/IM-0001-0041.dcm",
+    "DICOM files/IM-0001-0042.dcm",
+    "DICOM files/IM-0001-0043.dcm",
+    "DICOM files/IM-0001-0044.dcm",
+    "DICOM files/IM-0001-0045.dcm",
+    "DICOM files/IM-0001-0046.dcm",
+    "DICOM files/IM-0001-0047.dcm",
+    "DICOM files/IM-0001-0048.dcm",
+    "DICOM files/IM-0001-0049.dcm",
+    "DICOM files/IM-0001-0050.dcm",
+    "DICOM files/IM-0001-0051.dcm",
+    "DICOM files/IM-0001-0052.dcm",
+    "DICOM files/IM-0001-0053.dcm",
+    "DICOM files/IM-0001-0054.dcm",
+    "DICOM files/IM-0001-0055.dcm",
+    "DICOM files/IM-0001-0056.dcm",
+    "DICOM files/IM-0001-0057.dcm",
+    "DICOM files/IM-0001-0058.dcm",
+    "DICOM files/IM-0001-0059.dcm",
+    "DICOM files/IM-0001-0060.dcm",
+    "DICOM files/IM-0001-0061.dcm",
+    "DICOM files/IM-0001-0062.dcm",
+    "DICOM files/IM-0001-0063.dcm",
+    "DICOM files/IM-0001-0064.dcm",
+    "DICOM files/IM-0001-0065.dcm",
+    "DICOM files/IM-0001-0066.dcm",
+    "DICOM files/IM-0001-0067.dcm",
+    "DICOM files/IM-0001-0068.dcm",
+    "DICOM files/IM-0001-0069.dcm",
+    "DICOM files/IM-0001-0070.dcm",
+    "DICOM files/IM-0001-0071.dcm",
+    "DICOM files/IM-0001-0072.dcm",
+    "DICOM files/IM-0001-0073.dcm",
+    "DICOM files/IM-0001-0074.dcm",
+    "DICOM files/IM-0001-0075.dcm",
+    "DICOM files/IM-0001-0076.dcm",
+    "DICOM files/IM-0001-0077.dcm",
+    "DICOM files/IM-0001-0078.dcm",
+    "DICOM files/IM-0001-0079.dcm",
+    "DICOM files/IM-0001-0080.dcm",
+    "DICOM files/IM-0001-0081.dcm",
+    "DICOM files/IM-0001-0082.dcm",
+    "DICOM files/IM-0001-0083.dcm",
+    "DICOM files/IM-0001-0084.dcm",
+    "DICOM files/IM-0001-0085.dcm",
+    "DICOM files/IM-0001-0086.dcm",
+    "DICOM files/IM-0001-0087.dcm",
+    "DICOM files/IM-0001-0088.dcm",
+    "DICOM files/IM-0001-0089.dcm",
+    "DICOM files/IM-0001-0090.dcm",
+    "DICOM files/IM-0001-0091.dcm",
+    "DICOM files/IM-0001-0092.dcm",
+    "DICOM files/IM-0001-0093.dcm",
+    "DICOM files/IM-0001-0094.dcm",
+    "DICOM files/IM-0001-0095.dcm",
+    "DICOM files/IM-0001-0096.dcm",
+    "DICOM files/IM-0001-0097.dcm",
+    "DICOM files/IM-0001-0098.dcm",
+    "DICOM files/IM-0001-0099.dcm",
+    "DICOM files/IM-0001-0100.dcm",
+    "DICOM files/IM-0001-0101.dcm",
+    "DICOM files/IM-0001-0102.dcm",
+    "DICOM files/IM-0001-0103.dcm",
+    "DICOM files/IM-0001-0104.dcm",
+    "DICOM files/IM-0001-0105.dcm",
+    "DICOM files/IM-0001-0106.dcm",
+    "DICOM files/IM-0001-0107.dcm",
+    "DICOM files/IM-0001-0108.dcm",
+    "DICOM files/IM-0001-0109.dcm",
+    "DICOM files/IM-0001-0110.dcm",
+    "DICOM files/IM-0001-0111.dcm",
+    "DICOM files/IM-0001-0112.dcm",
+    "DICOM files/IM-0001-0113.dcm",
+    "DICOM files/IM-0001-0114.dcm",
+    "DICOM files/IM-0001-0115.dcm",
+    "DICOM files/IM-0001-0116.dcm",
+    "DICOM files/IM-0001-0117.dcm",
+    "DICOM files/IM-0001-0118.dcm",
+    "DICOM files/IM-0001-0119.dcm",
+    "DICOM files/IM-0001-0120.dcm",
+    "DICOM files/IM-0001-0121.dcm",
+    "DICOM files/IM-0001-0122.dcm",
+    "DICOM files/IM-0001-0123.dcm",
+    "DICOM files/IM-0001-0124.dcm",
+    "DICOM files/IM-0001-0125.dcm",
+    "DICOM files/IM-0001-0126.dcm",
+    "DICOM files/IM-0001-0127.dcm",
+    "DICOM files/IM-0001-0128.dcm",
+    "DICOM files/IM-0001-0129.dcm",
+    "DICOM files/IM-0001-0130.dcm",
+    "DICOM files/IM-0001-0131.dcm",
+    "DICOM files/IM-0001-0132.dcm",
+    "DICOM files/IM-0001-0133.dcm",
+    "DICOM files/IM-0001-0134.dcm",
+    "DICOM files/IM-0001-0135.dcm",
+    "DICOM files/IM-0001-0136.dcm",
+    "DICOM files/IM-0001-0137.dcm",
+    "DICOM files/IM-0001-0138.dcm",
+    "DICOM files/IM-0001-0139.dcm",
+    "DICOM files/IM-0001-0140.dcm",
+    "DICOM files/IM-0001-0141.dcm",
+    "DICOM files/IM-0001-0142.dcm",
+    "DICOM files/IM-0001-0143.dcm",
+    "DICOM files/IM-0001-0144.dcm",
+    "DICOM files/IM-0001-0145.dcm",
+    "DICOM files/IM-0001-0146.dcm",
+    "DICOM files/IM-0001-0147.dcm",
+    "DICOM files/IM-0001-0148.dcm",
+    "DICOM files/IM-0001-0149.dcm",
+    "DICOM files/IM-0001-0150.dcm",
+    "DICOM files/IM-0001-0151.dcm",
+    "DICOM files/IM-0001-0152.dcm",
+    "DICOM files/IM-0001-0153.dcm",
+    "DICOM files/IM-0001-0154.dcm",
+    "DICOM files/IM-0001-0155.dcm",
+    "DICOM files/IM-0001-0156.dcm",
+    "DICOM files/IM-0001-0157.dcm",
+    "DICOM files/IM-0001-0158.dcm",
+    "DICOM files/IM-0001-0159.dcm",
+    "DICOM files/IM-0001-0160.dcm",
+    "DICOM files/IM-0001-0161.dcm",
+    "DICOM files/IM-0001-0162.dcm",
+    "DICOM files/IM-0001-0163.dcm",
+    "DICOM files/IM-0001-0164.dcm",
+    "DICOM files/IM-0001-0165.dcm",
+    "DICOM files/IM-0001-0166.dcm",
+    "DICOM files/IM-0001-0167.dcm",
+    "DICOM files/IM-0001-0168.dcm",
+    "DICOM files/IM-0001-0169.dcm",
+    "DICOM files/IM-0001-0170.dcm",
+    "DICOM files/IM-0001-0171.dcm",
+    "DICOM files/IM-0001-0172.dcm",
+    "DICOM files/IM-0001-0173.dcm",
+    "DICOM files/IM-0001-0174.dcm",
+    "DICOM files/IM-0001-0175.dcm",
+    "DICOM files/IM-0001-0176.dcm",
+    "DICOM files/IM-0001-0177.dcm",
+    "DICOM files/IM-0001-0178.dcm",
+    "DICOM files/IM-0001-0179.dcm",
+    "DICOM files/IM-0001-0180.dcm",
+    "DICOM files/IM-0001-0181.dcm",
+    "DICOM files/IM-0001-0182.dcm",
+    "DICOM files/IM-0001-0183.dcm",
+    "DICOM files/IM-0001-0184.dcm",
+    "DICOM files/IM-0001-0185.dcm",
+    "DICOM files/IM-0001-0186.dcm",
+    "DICOM files/IM-0001-0187.dcm",
+    "DICOM files/IM-0001-0188.dcm",
+    "DICOM files/IM-0001-0189.dcm",
+    "DICOM files/IM-0001-0190.dcm",
+    "DICOM files/IM-0001-0191.dcm",
+    "DICOM files/IM-0001-0192.dcm",
+    "DICOM files/IM-0001-0193.dcm",
+    "DICOM files/IM-0001-0194.dcm",
+    "DICOM files/IM-0001-0195.dcm",
+    "DICOM files/IM-0001-0196.dcm",
+    "DICOM files/IM-0001-0197.dcm",
+    "DICOM files/IM-0001-0198.dcm",
+    "DICOM files/IM-0001-0199.dcm",
+    "DICOM files/IM-0001-0200.dcm",
+    "DICOM files/IM-0001-0201.dcm",
+    "DICOM files/IM-0001-0202.dcm",
+    "DICOM files/IM-0001-0203.dcm",
+    "DICOM files/IM-0001-0204.dcm",
+    "DICOM files/IM-0001-0205.dcm",
+    "DICOM files/IM-0001-0206.dcm",
+    "DICOM files/IM-0001-0207.dcm",
+    "DICOM files/IM-0001-0208.dcm",
+    "DICOM files/IM-0001-0209.dcm",
+    "DICOM files/IM-0001-0210.dcm",
+    "DICOM files/IM-0001-0211.dcm",
+    "DICOM files/IM-0001-0212.dcm",
+    "DICOM files/IM-0001-0213.dcm",
+    "DICOM files/IM-0001-0214.dcm",
+    "DICOM files/IM-0001-0215.dcm",
+    "DICOM files/IM-0001-0216.dcm",
+    "DICOM files/IM-0001-0217.dcm",
+    "DICOM files/IM-0001-0218.dcm",
+    "DICOM files/IM-0001-0219.dcm",
+    "DICOM files/IM-0001-0220.dcm",
+    "DICOM files/IM-0001-0221.dcm",
+    "DICOM files/IM-0001-0222.dcm",
+    "DICOM files/IM-0001-0223.dcm",
+    "DICOM files/IM-0001-0224.dcm",
+    "DICOM files/IM-0001-0225.dcm",
+    "DICOM files/IM-0001-0226.dcm",
+    "DICOM files/IM-0001-0227.dcm",
+    "DICOM files/IM-0001-0228.dcm",
+    "DICOM files/IM-0001-0229.dcm",
+    "DICOM files/IM-0001-0230.dcm",
+    "DICOM files/IM-0001-0231.dcm",
+    "DICOM files/IM-0001-0232.dcm",
+    "DICOM files/IM-0001-0233.dcm",
+    "DICOM files/IM-0001-0234.dcm",
+    "DICOM files/IM-0001-0235.dcm",
+    "DICOM files/IM-0001-0236.dcm",
+    "DICOM files/IM-0001-0237.dcm",
+    "DICOM files/IM-0001-0238.dcm",
+    "DICOM files/IM-0001-0239.dcm",
+    "DICOM files/IM-0001-0240.dcm"
+  ],
+  "zip_filelist_timestamp_dsi": "2021-11-30T02:27:04.639Z"
+}
